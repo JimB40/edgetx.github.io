@@ -1,8 +1,6 @@
 # Team
 
-The EdgeTX team develops and maintains the firmware and its supporting tools, working alongside contributors across the RC community.
-
-## Meet the team
+## Core Development Team and PSC
 
 The badges show Development Team membership and participation in the **Project Steering Committee (PSC)**. PSC responsibilities and membership rules are defined in the [Project Bylaws](bylaws.md).
 

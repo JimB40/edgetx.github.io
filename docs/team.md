@@ -58,10 +58,8 @@ The current members of the EdgeTX core Development Team and Project Steering Com
 
 <span id="current-psc-term"></span>
 
-!!! note "Current PSC term"
+!!! info "Governance and membership"
 
-    The fifth PSC term ends on **28 February 2027**. See the Bylaws for [terms and elections](bylaws.md#terms), [structure and roles](bylaws.md#structure), and [PSC responsibilities](bylaws.md#project-steering-committee).
+    The fifth PSC term ends on **28 February 2027**.
 
-!!! info "Development Team membership"
-
-    The Bylaws describe [Development Team membership](bylaws.md#edgetx-development-team), including its connection to the [Non-Disclosure Policy](nda.md).
+    The Bylaws describe [terms and elections](bylaws.md#terms), [structure and roles](bylaws.md#structure), [PSC responsibilities](bylaws.md#project-steering-committee) and [Development Team membership](bylaws.md#edgetx-development-team), including its connection to the [Non-Disclosure Policy](nda.md).

@@ -10,7 +10,7 @@
   {{ super() }}
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="googlebot" content="noindex, nofollow, noarchive">
-  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-13"></script>
+  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-14"></script>
 {% endblock %}
 {% block announce %}{% endblock %}
 {% block header %}
@@ -20,9 +20,11 @@
 
 </div>
 {% endblock %}
-{% block content %}
+{% block container %}
+<div class="etx-content-column">
 <nav class="etx-breadcrumb" aria-label="Breadcrumb"><a href="{{ './' | url }}" aria-label="Home"><i data-lucide="house" aria-hidden="true"></i></a><span aria-hidden="true">/</span><a href="{{ context.section.landing | url }}">{{ context.section.title }}</a><span aria-hidden="true">/</span><span aria-current="page">{{ page.title }}</span></nav>
 {{ super() }}
+</div>
 {% endblock %}
 {% block tabs %}{% endblock %}
 {% block site_nav %}
@@ -33,5 +35,5 @@
 {% block scripts %}
  {{ super() }}
  <script src="{{ 'assets/website-3.0/lucide.min.js' | url }}"></script>
- <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-13"></script>
+ <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-14"></script>
 {% endblock %}

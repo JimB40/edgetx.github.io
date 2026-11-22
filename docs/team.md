@@ -62,10 +62,6 @@ The current members of the EdgeTX core Development Team and Project Steering Com
 
     The fifth PSC term ends on **28 February 2027**. See the Bylaws for [terms and elections](bylaws.md#terms), [structure and roles](bylaws.md#structure), and [PSC responsibilities](bylaws.md#project-steering-committee).
 
-## Contributing to EdgeTX
+!!! note "Development Team membership"
 
-Formal Development Team membership is distinct from contributing to the project. EdgeTX depends on its wider community; see [contributors on GitHub](https://github.com/EdgeTX/edgetx/graphs/contributors).
-
-Testing is an especially valuable way to help: trying releases on real radios, reporting reproducible issues and checking fixes all improve the software. See [Get involved](recruiting.md) for ways to contribute and [Developer Information](devinfo.md) for practical resources.
-
-The Bylaws describe [Development Team membership](bylaws.md#edgetx-development-team), including its connection to the [Non-Disclosure Policy](nda.md).
+    The Bylaws describe [Development Team membership](bylaws.md#edgetx-development-team), including its connection to the [Non-Disclosure Policy](nda.md).

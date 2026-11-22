@@ -63,3 +63,9 @@
 .etx-document .md-content__inner>h1+*{margin-top:0}
 
 .etx-document .md-content__inner::before{display:none}
+
+/* Use the same outer gutters as the shared header. */
+.etx-document .md-main__inner.md-grid{max-width:none;width:auto;margin-left:5%;margin-right:5%;padding-left:0;padding-right:0}
+.etx-document .etx-context-menu{background:var(--soft);border-radius:16px;padding:16px}
+.etx-document .etx-context-menu a[aria-current=page]{background:var(--paper)}
+@media(max-width:899px){.etx-document .md-main__inner.md-grid{margin-left:5%;margin-right:5%;padding:0}.etx-document .etx-context-menu{padding:8px 14px}}

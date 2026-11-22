@@ -61,3 +61,5 @@
 
 /* Hidden page titles must not leave the first section with a top margin. */
 .etx-document .md-content__inner>h1+*{margin-top:0}
+
+.etx-document .md-content__inner::before{display:none}

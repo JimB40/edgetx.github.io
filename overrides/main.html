@@ -3,21 +3,20 @@
   {{ super() }}
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="googlebot" content="noindex, nofollow, noarchive">
-  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-3"></script>
+  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-4"></script>
 {% endblock %}
 {% block announce %}{% endblock %}
 {% block header %}
 <script>document.body.classList.add('etx-design','etx-document');document.body.style.colorScheme=window.etxReviewTheme||'light';</script>
-<header class="etx-site-header" data-md-component="header">
+<div class="etx-site-header">
   {% include "partials/website-header.html" %}
 <div class="etx-doc-toolbar">
   {% set project_pages = ['project.md', 'about.md', 'bylaws.md', 'nda.md', 'logos.md', 'recruiting.md', 'partnershipprogram.md', 'edgetxsupport.md', 'news.md', 'merch.md', 'devcontest.md', 'fest2023.md', 'fest2024.md', 'fest2025.md', 'fest2026.md', 'etxf24_auction.md', 'dc10_3deddie.md', 'dc9_lualvglwizard.md', 'dc8_lualvglwidget.md', 'dc7_simuhaptic.md', 'dc6_buddybackup.md', 'dc5_websimu.md', 'dc4_comp_physer.md', 'dc2_ubx.md'] %}
-  {% if page and page.file.src_path in project_pages %}<a href="{{ 'project/' | url }}">Project</a>{% else %}<a href="{{ 'resources/' | url }}">Docs &amp; help</a>{% endif %}
+  {% if page and page.file.src_path in project_pages %}<a href="{{ 'about/' | url }}">Project</a>{% else %}<a href="{{ 'resources/' | url }}">Docs &amp; help</a>{% endif %}
   <span aria-hidden="true">/</span><span>{{ page.title }}</span>
-  <label for="__search" class="etx-search-button" role="button" tabindex="0"><i data-lucide="search" aria-hidden="true"></i>Search documentation</label>
+
 </div>
-{% include "partials/search.html" %}
-</header>
+</div>
 {% endblock %}
 {% block tabs %}{% endblock %}
 {% block site_nav %}
@@ -28,5 +27,5 @@
 {% block scripts %}
  {{ super() }}
  <script src="{{ 'assets/website-3.0/lucide.min.js' | url }}"></script>
- <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-3"></script>
+ <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-4"></script>
 {% endblock %}

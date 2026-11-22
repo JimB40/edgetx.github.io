@@ -44,3 +44,19 @@
 .etx-design .partnerlogos a{background:var(--paper)}.etx-design .partnerrank{color:light-dark(#705400,#e4cb7c);background:light-dark(#fff0b8,#40371e)}.etx-design[style*="dark"] .partnerlogos img{filter:grayscale(1) invert(1) brightness(.87);mix-blend-mode:screen}
 
 html{scroll-behavior:smooth}body{margin:0;background:#fbfcfe;font-family:Arial,sans-serif}.etx-design{border-radius:0;max-width:1440px;margin:0 auto}.etx-design .review-banner{padding-top:6px;padding-bottom:6px;background:var(--soft);color:var(--sub);font-size:12px;text-align:center}.etx-design a svg{width:1em;height:1em}.etx-design .notice{min-height:32px}.etx-design .nav{gap:18px}@media(max-width:1000px){.etx-design .navlinks{gap:13px}.etx-design .nav{gap:12px}}
+
+/* Compact shared header, with announcements outside the sticky area. */
+.etx-design{overflow:clip}.etx-document{overflow:visible!important}
+.etx-design .etx-sticky-header{position:sticky;top:0;z-index:30;background:var(--paper);border-bottom:1px solid var(--line)}
+.etx-document .etx-site-header{display:contents}
+.etx-design .etx-topbar{display:flex;align-items:center;gap:20px;padding-top:10px;padding-bottom:9px}
+.etx-design .etx-topbar .brand{margin-right:auto}.etx-design .etx-topbar .brand img{width:32px;height:36px}
+.etx-design .etx-search-button{display:inline-flex;align-items:center;gap:10px;min-width:180px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:var(--soft);color:var(--sub);font:inherit;font-size:13px;cursor:pointer}
+.etx-design .etx-search-button svg{width:16px;height:16px}
+.etx-design .etx-github{display:flex;align-items:center;gap:9px;font-size:13px;font-weight:600;white-space:nowrap}.etx-design .etx-repo-stats{display:block;color:var(--sub);font-size:10px;font-weight:400}
+.etx-design .etx-menubar{padding-top:7px;padding-bottom:9px}.etx-design .etx-menubar .navlinks{display:flex;justify-content:flex-end;gap:27px;font-size:13px}
+.etx-document .etx-doc-toolbar{padding-top:10px;padding-bottom:10px;border-bottom:0;font-size:12px}
+.etx-design .etx-search-dialog{position:fixed;top:12vh;margin:0 auto;width:min(640px,92vw);max-height:75vh;overflow:auto;background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:14px;padding:22px;box-shadow:0 20px 80px #0004}
+.etx-search-dialog::backdrop{background:#10203080}.etx-design .etx-search-dialog form{display:flex;align-items:center;justify-content:space-between;margin-bottom:15px}.etx-design .etx-search-dialog form button{border:0;background:transparent;color:var(--ink);font-size:24px;cursor:pointer}.etx-design .etx-search-dialog input{width:100%;padding:12px;border:1px solid var(--line);border-radius:8px;background:var(--soft);color:var(--ink)}.etx-design .etx-search-status{font-size:12px;color:var(--sub);margin:12px 0}.etx-design .etx-search-results{list-style:none;padding:0;margin:0}.etx-design .etx-search-results a{display:block;padding:12px 0;border-top:1px solid var(--line);color:var(--blue)}.etx-design .etx-search-results small{display:block;color:var(--sub);font-size:12px;margin-top:4px}
+html{scroll-padding-top:120px}
+@media(max-width:600px){.etx-design .etx-topbar{gap:12px}.etx-design .etx-search-button{min-width:0}.etx-design .etx-repo-stats{font-size:9px}.etx-design .etx-menubar .navlinks{justify-content:space-between;gap:10px;font-size:12px}.etx-design .etx-github{font-size:11px;gap:5px}}

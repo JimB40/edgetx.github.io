@@ -8,15 +8,23 @@ EdgeTX:
 
 - Provides a comprehensive set of tools for configuring virtually any RC model, with multiple ways to approach each setup. Supporting applications include [WebSim](https://sim.edgetx.org/){target="_blank" rel="noopener noreferrer"}, [Buddy](https://buddy.edgetx.org/){target="_blank" rel="noopener noreferrer"} and [Companion](getedgetx.md){target="_blank" rel="noopener noreferrer"}.
 - Supports a wide range of transmitters from multiple manufacturers. See [supported radios](supportedradios.md).
-- Is compatible with a broad range of telemetry protocols.
+- Supports a wide range of RC transmission protocols and telemetry, including the most popular ones such as ExpressLRS, Crossfire, ACCST, AFHDS and DSM, through compatible RF modules.
 - Allows visual customization through themes and extends functionality through Lua scripts and widgets.
 - Provides openly available source code that lets anyone understand how EdgeTX works, contribute improvements and help shape its development.
 
 ## Our story
 
-EdgeTX began on 6 May 2021 as a fork of OpenTX, with the aim of creating a more optimized, touch-friendly user interface. It has continued to develop through contributions from the RC community, including improvements to Lua scripting, hardware support and the tools used alongside the firmware.
+EdgeTX was born on 6 May 2021 as a fork of OpenTX, building on its foundations to introduce a touch-friendly interface and expand the possibilities of open-source RC firmware.
 
-The source code is available in the [EdgeTX GitHub organization](https://github.com/EdgeTX).
+OpenTX remains an option for older transmitters, but its development has largely become dormant. EdgeTX continues to build on this shared heritage through ongoing development, support for newer radios and an expanding ecosystem of tools and community contributions, making it a natural choice for open-source RC firmware today.
+
+## Open-source code
+
+Open source is a core value of the EdgeTX project. Access to the code makes it possible to understand how the firmware works, review its implementation and adapt it to new ideas and hardware. It also enables users, developers and manufacturers to collaborate on improvements that benefit the wider RC community.
+
+The EdgeTX firmware is distributed under the **GNU General Public License, version 2 (GPLv2)**. The license allows the software to be used, studied, modified and redistributed under its terms, helping keep the firmware and distributed improvements open for others to build on.
+
+The firmware source is maintained in the [EdgeTX repository on GitHub](https://github.com/EdgeTX/edgetx), where the [full license](https://github.com/EdgeTX/edgetx/blob/main/LICENSE) is also available. Related tools and projects can be found in the [EdgeTX GitHub organization](https://github.com/EdgeTX); their repositories contain their respective licensing information.
 
 ## How the project is organized
 

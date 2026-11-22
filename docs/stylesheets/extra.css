@@ -1,15 +1,40 @@
-:root {
-  --md-primary-fg-color:        #0C7BCD;
-  --md-primary-fg-color--light: #0C7BCD;
-  --md-primary-fg-color--dark:  #0C7BCD;
-}
 
-
-
-
-.md-header__button.md-logo img,.md-header__button.md-logo svg {
-    fill: currentcolor;
-    display: block;
-    height: 3rem;
-    width: auto
-}
+.etx-document{overflow:visible!important;--md-default-bg-color:var(--paper);--md-default-fg-color:var(--ink);--md-default-fg-color--light:var(--sub);--md-default-fg-color--lighter:var(--line);--md-typeset-color:var(--ink);--md-typeset-a-color:var(--blue);--md-accent-fg-color:var(--blue);--md-primary-fg-color:var(--bluefill);--md-primary-bg-color:#fff;--md-code-bg-color:var(--soft);--md-code-fg-color:var(--ink);--md-text-font:Arial,sans-serif;--md-code-font:monospace}
+.etx-document .md-main{background:var(--paper)}
+.etx-document .md-grid{max-width:1296px}
+.etx-document .md-main__inner{margin-top:24px;margin-bottom:40px}
+.etx-document .md-content{min-width:0}
+.etx-document .md-content__inner{padding:28px 34px;margin:0 18px;border:1px solid var(--line);border-radius:var(--round);background:var(--paper)}
+.etx-document .md-typeset{font-size:16px;line-height:1.75;color:var(--ink)}
+.etx-document .md-typeset h1{font-family:Arial,sans-serif;font-size:36px;line-height:1.2;letter-spacing:-1px;font-weight:750;margin:0 0 24px;color:var(--ink)}
+.etx-document .md-typeset h2{font-size:26px;line-height:1.3;letter-spacing:-.6px;font-weight:700;margin:32px 0 14px;color:var(--ink)}
+.etx-document .md-typeset h3{font-size:20px;line-height:1.4;font-weight:700;margin:24px 0 10px;letter-spacing:-.3px;color:var(--ink)}
+.etx-document .md-typeset p{margin:0 0 18px}
+.etx-document .md-typeset a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+.etx-document .md-typeset a.headerlink{text-decoration:none}
+.etx-document .md-typeset img{max-width:100%;height:auto;border-radius:10px}
+.etx-document .md-typeset hr{border-color:var(--line);margin:28px 0}
+.etx-document .md-typeset blockquote{color:var(--sub);border-left:3px solid var(--blue);background:var(--soft);padding:16px 20px;margin:18px 0;border-radius:0 10px 10px 0}
+.etx-document .md-typeset blockquote p:last-child{margin-bottom:0}
+.etx-document .md-typeset pre{border-radius:10px}
+.etx-document .md-typeset table:not([class]){border:1px solid var(--line);border-radius:10px;background:var(--paper)}
+.etx-document .md-typeset table:not([class]) th{background:var(--soft)}
+.etx-document .md-nav{font-size:13px;line-height:1.5;color:var(--sub)}
+.etx-document .md-nav__link{color:var(--sub);padding:4px 0}
+.etx-document .md-nav__link--active,.etx-document .md-nav__link:hover{color:var(--blue)}
+.etx-document .md-nav__title{color:var(--ink);font-size:13px;background:transparent;box-shadow:none}
+.etx-document .md-nav--secondary{border-left:1px solid var(--line);padding-left:16px}
+.etx-document .md-search__form,.etx-document .md-search__output{background:var(--paper);color:var(--ink)}
+.etx-document .md-search__input{color:var(--ink)}
+.etx-document .md-search-result__meta{background:var(--soft);color:var(--sub)}
+.etx-document .etx-site-header{background:var(--paper);color:var(--ink)}
+.etx-document .etx-doc-toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:10px;padding:16px 5%;border-bottom:1px solid var(--line);font-size:13px;color:var(--sub)}
+.etx-document .etx-doc-toolbar>a{color:var(--blue)}
+.etx-document .etx-search-button{margin-left:auto;display:inline-flex;align-items:center;gap:8px;background:var(--soft);border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:8px 12px;font:inherit;cursor:pointer}
+.etx-document .etx-search-button svg{width:16px;height:16px}
+.etx-document .footer{margin-top:0}
+.etx-document .md-sidebar{height:auto}
+.etx-document .md-sidebar__scrollwrap{max-height:calc(100vh - 200px)}
+@media(max-width:1219px){.etx-document .md-sidebar--primary{display:none}.etx-document .md-content__inner{margin:0 5%;padding:24px}.etx-document .md-main__inner{margin-top:20px}}
+@media(max-width:959px){.etx-document .md-sidebar--secondary{display:none}}
+@media(max-width:600px){.etx-document .md-content__inner{margin:0 4%;padding:20px}.etx-document .md-typeset h1{font-size:29px}.etx-document .md-typeset h2{font-size:23px}.etx-document .etx-search-button{margin-left:0}.etx-document .etx-doc-toolbar{gap:8px}.etx-document .md-typeset{font-size:15px}}

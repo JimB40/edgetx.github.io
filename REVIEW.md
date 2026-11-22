@@ -23,7 +23,7 @@ Every generated page includes `noindex, nofollow, noarchive`; robots.txt request
 ## Review scope
 
 - Redesigned homepage, navigation, light/dark themes, galleries, community, Fest, support and manufacturers.
-- Existing content pages retain MkDocs Material styling for this first review.
+- Existing Markdown pages share the homepage header, footer, design tokens and light/dark theme. MkDocs still provides sidebar navigation, table of contents and search. The Docs and Help directory links to every existing content page.
 - Donation links open the existing Open Collective page. The planned shop button is disabled.
 - The Fest 2027 destination and example countdown are concept content, not a confirmed event date.
 - The radio count is concept copy based on the current compatibility list; a shared catalog remains future work.

@@ -25,6 +25,8 @@ jobs:
       - run: mkdocs build --clean
       - name: Verify preview indexing protection
         run: python tools/check-preview.py site
+      - name: Verify local links and assets
+        run: python tools/check-links.py site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

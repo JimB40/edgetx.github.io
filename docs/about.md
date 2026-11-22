@@ -42,7 +42,7 @@ If you would like to support the project financially, we have a donation system 
 
 The usage of the money will be reported at [OpenCollective](https://opencollective.com/edgetx) and will be transparent to all to see where the money is flowing.
 
-You can also contribute to EdgeTX in other ways. We need developers as well as everyday users to help with development, testing, issue reporting, documentation, or simply spreading the word. We really appreciate any assistance we get. See the [EdgeTX recruiting page](https://edgetx.org/recruiting) for more information.
+You can also contribute to EdgeTX in other ways. We need developers as well as everyday users to help with development, testing, issue reporting, documentation, or simply spreading the word. We really appreciate any assistance we get. See the [EdgeTX recruiting page](recruiting.md) for more information.
 
 ### Have questions about the EdgeTX Project?
 

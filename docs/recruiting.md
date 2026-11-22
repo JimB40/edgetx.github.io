@@ -1,5 +1,5 @@
 <p align="center">
-<a href="url"><img src="../assets/wantyou.gif" align="center" height="342" width="277"></a>
+<a><img src="../assets/wantyou.gif" align="center" height="342" width="277"></a>
 </P>
 <h3>The EdgeTX team is looking for additional members to help create the cutting-edge.</h3>
 

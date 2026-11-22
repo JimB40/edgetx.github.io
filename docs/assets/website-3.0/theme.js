@@ -1,0 +1,1 @@
+(()=>{let theme="light";try{theme=localStorage.getItem("edgetx-review-theme")==="dark"?"dark":"light"}catch{}document.documentElement.style.colorScheme=theme;document.documentElement.dataset.etxTheme=theme;window.etxReviewTheme=theme})();

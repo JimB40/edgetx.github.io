@@ -12,17 +12,17 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 ## **Past developer contests**
 
-* [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](https://edgetx.org/dc10_3deddie). Winning solution by Luis Loreto - [3MF file](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie.3mf) (created using Orca slicer) and [3D printing instructions](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddiePrintingInstructions.pdf)
+* [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](dc10_3deddie.md). Winning solution by Luis Loreto - [3MF file](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie.3mf) (created using Orca slicer) and [3D printing instructions](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddiePrintingInstructions.pdf)
 
-* [9th - Lua LVGL new model wizards](https://edgetx.org/dc9_lualvglwizard). Winning solution by Alexander Gnauck - [EdgeTX SD card PR #245](https://github.com/EdgeTX/edgetx-sdcard/pull/245)
+* [9th - Lua LVGL new model wizards](dc9_lualvglwizard.md). Winning solution by Alexander Gnauck - [EdgeTX SD card PR #245](https://github.com/EdgeTX/edgetx-sdcard/pull/245)
 
-* [8th - Most popular new Lua widget using LVGL controls](https://edgetx.org/dc8_lualvglwidget). Winning solution by Wilhelm Meier - [EdgeTX Lua Scripts PR #35](https://github.com/EdgeTX/lua-scripts/pull/35)
+* [8th - Most popular new Lua widget using LVGL controls](dc8_lualvglwidget.md). Winning solution by Wilhelm Meier - [EdgeTX Lua Scripts PR #35](https://github.com/EdgeTX/lua-scripts/pull/35)
 
-* [7th - Haptic feedback for EdgeTX Companion Simulator](https://edgetx.org/dc7_simuhaptic). Merged solution by Ethan Kuzo - [EdgeTX PR #7322](https://github.com/EdgeTX/edgetx/pull/7322)
+* [7th - Haptic feedback for EdgeTX Companion Simulator](dc7_simuhaptic.md). Merged solution by Ethan Kuzo - [EdgeTX PR #7322](https://github.com/EdgeTX/edgetx/pull/7322)
 
-* [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). Winning solution by Héctor Narbona Márquez - [EdgeTX Buddy PR #134](https://github.com/EdgeTX/buddy/pull/134)
+* [6th - EdgeTX Buddy backup and restore](dc6_buddybackup.md). Winning solution by Héctor Narbona Márquez - [EdgeTX Buddy PR #134](https://github.com/EdgeTX/buddy/pull/134)
 
-* [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu). Ended on midnight April 30th, 2025 GMT w/o submissions. Plans are afoot to reopen this developer contest in simplified form sometime in 2026.
+* [5th - Web based EdgeTX radio firmware simulator](dc5_websimu.md). Ended on midnight April 30th, 2025 GMT w/o submissions. Plans are afoot to reopen this developer contest in simplified form sometime in 2026.
 
 * 4th - Physical serial port connectivity for EdgeTX Companion Simulator. Winning solution by Nigel Williams - [EdgeTX PR #5584](https://github.com/EdgeTX/edgetx/pull/5584)
 

@@ -93,7 +93,7 @@ The chair may appoint one member of the PSC committee as secretary to take minut
 ### EdgeTX Development Team
 
 The EdgeTX Development Team consists of most active developers participating in the project. PSC members, who are also active developers themselves, are automatically seen as members of the EdgeTX Development Team. For the addition and removal of EdgeTX Development Team members a majority PSC vote is required.
-The affiliation as an EdgeTX Development Team member can be presented only to users abiding to the [NDA](https://edgetx.org/nda/).
+The affiliation as an EdgeTX Development Team member can be presented only to users abiding to the [NDA](nda.md).
 
 The EdgeTX Development Team consists currently of all PSC members and following developers (with their Discord usernames):
 

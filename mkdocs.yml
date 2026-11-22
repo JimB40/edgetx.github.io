@@ -10,6 +10,7 @@ copyright: Copyright &copy; 2021-2026 EdgeTX
 
 nav:
     - Home: index.md
+    - Docs and Help: resources.md
     - For Users:
         - About EdgeTX: about.md
         - News: news.md
@@ -50,14 +51,13 @@ nav:
 theme:
   name: material
   custom_dir: overrides
+  font: false
   logo: assets/logo.png
   favicon: assets/logo.png
   palette:
     primary: custom
   features:
     - announce.dismiss
-    - navigation.instant
-    - navigation.tabs
     - navigation.indexes
     - search.highlight
     - search.suggest
@@ -65,6 +65,7 @@ theme:
     - navigation.top
 
 extra_css:
+  - assets/website-3.0/homepage.css
   - stylesheets/extra.css
 
 extra:

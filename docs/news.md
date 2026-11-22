@@ -67,7 +67,7 @@ We are excited to announce the winner of the EdgeTX Buddy Backup and Restore Dev
 
 **3D printable model of EdgeTX mascot *Eddie the Edgehog* Developer Contest**
 
-Create the best volumetric 3D printable model of EdgeTX mascot *Eddie the Edgehog* together with EdgeTX star logo and win a RadioMaster TX16s MK3 MAX radio. The contest ends on <del>midnight of March 1st, 2026 GMT</del> <span style="color:red;font-weight:bold;">extended to midnight of March 31st, 2026 GMT</span>. Full contest details and rules can be found here: [https://edgetx.org/dc10_3deddie](https://edgetx.org/dc10_3deddie)
+Create the best volumetric 3D printable model of EdgeTX mascot *Eddie the Edgehog* together with EdgeTX star logo and win a RadioMaster TX16s MK3 MAX radio. The contest ends on <del>midnight of March 1st, 2026 GMT</del> <span style="color:red;font-weight:bold;">extended to midnight of March 31st, 2026 GMT</span>. Full contest details and rules can be found here: [https://edgetx.org/dc10_3deddie](dc10_3deddie.md)
 
 ---
 
@@ -86,7 +86,7 @@ We are excited to announce the winner of the Lua LVGL New Model Wizard Developer
 **Lua LVGL New Model Wizard Developer Contest**
 
 
-Be the first developer to rewrite the model wizards (Plane, Glider, Wing, Helicopter and Multirotor) so that they use the new EdgeTX Lua LVGL controls and automatically adapt to screen resolution and win a RadioMaster radio. The contest ends after first successful submission or on midnight of January 18th, 2026 GMT.  Full contest details and rules can be found here: [https://edgetx.org/dc9_lualvglwizard](https://edgetx.org/dc9_lualvglwizard)
+Be the first developer to rewrite the model wizards (Plane, Glider, Wing, Helicopter and Multirotor) so that they use the new EdgeTX Lua LVGL controls and automatically adapt to screen resolution and win a RadioMaster radio. The contest ends after first successful submission or on midnight of January 18th, 2026 GMT.  Full contest details and rules can be found here: [https://edgetx.org/dc9_lualvglwizard](dc9_lualvglwizard.md)
 
 ---
 
@@ -136,7 +136,7 @@ On March 16th, 2025, the PSC met, and Raphael Coeffic was voted Committee Chair 
 
 Phil Eville (EZRipFPV) stepped down from the PSC at his own request. Phil was part of EdgeTX and EdgeTX PSC from the early days. All members of the PSC wish to thank Phil for his time and fantastic contributions to the EdgeTX project in the almost 4 years of existence of EdgeTX.
 
-See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more information about the EdgeTX PSC.
+See the [EdgeTX project bylaws](bylaws.md) page for more information about the EdgeTX PSC.
 
 ---
 
@@ -147,15 +147,15 @@ See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more informa
 
 ***EdgeTX Buddy Backup and Restore Developer Contest***
 
-Be the first developer to add a model and radio settings backup and restore functionality for EdgeTX Buddy and you will win a RadioMaster radio (the winner can pick a radio model between RadioMaster TX16s mkII, GX12, Boxer, MT12, Zorro or Pocket). The contest ends after first successful submission or on midnight April 30th, 2025 GMT. Full contest details and rules can be found here: [https://edgetx.org/dc6_buddybackup](https://edgetx.org/dc6_buddybackup)
+Be the first developer to add a model and radio settings backup and restore functionality for EdgeTX Buddy and you will win a RadioMaster radio (the winner can pick a radio model between RadioMaster TX16s mkII, GX12, Boxer, MT12, Zorro or Pocket). The contest ends after first successful submission or on midnight April 30th, 2025 GMT. Full contest details and rules can be found here: [https://edgetx.org/dc6_buddybackup](dc6_buddybackup.md)
 
 ***Haptic Feedback for EdgeTX Companion Simulator Developer Contest***
 
-Be the first developer to add visual and audible haptic feedback for EdgeTX Companion Simulator for all presently supported OS (MacOS/Linux/Windows) and you will win a RadioMaster radio (the winner can pick a radio model between RadioMaster TX16s mkII, GX12, Boxer, MT12, Zorro or Pocket). The contest ends after first successful submission or on midnight April 30th, 2025 GMT. Full contest details and rules can be found here: [https://edgetx.org/dc7_simuhaptic](https://edgetx.org/dc7_simuhaptic)
+Be the first developer to add visual and audible haptic feedback for EdgeTX Companion Simulator for all presently supported OS (MacOS/Linux/Windows) and you will win a RadioMaster radio (the winner can pick a radio model between RadioMaster TX16s mkII, GX12, Boxer, MT12, Zorro or Pocket). The contest ends after first successful submission or on midnight April 30th, 2025 GMT. Full contest details and rules can be found here: [https://edgetx.org/dc7_simuhaptic](dc7_simuhaptic.md)
 
 ***Lua widget using LVGL controls***
 
-Create the most popular new Lua widget using LVGL controls for EdgeTX color screen radios and you will win a RadioMaster radio (the winner can pick a radio model between RadioMaster TX16s mkII, GX12, Boxer, MT12, Zorro or Pocket). The contest ends on midnight of April 30th, 2025 GMT and the winner is picked by the amount of thumb ups the community has provided to the PR by that date. Full contest details and rules can be found here: [https://edgetx.org/dc8_lualvglwidget](https://edgetx.org/dc8_lualvglwidget)
+Create the most popular new Lua widget using LVGL controls for EdgeTX color screen radios and you will win a RadioMaster radio (the winner can pick a radio model between RadioMaster TX16s mkII, GX12, Boxer, MT12, Zorro or Pocket). The contest ends on midnight of April 30th, 2025 GMT and the winner is picked by the amount of thumb ups the community has provided to the PR by that date. Full contest details and rules can be found here: [https://edgetx.org/dc8_lualvglwidget](dc8_lualvglwidget.md)
 
 
 ---
@@ -164,7 +164,7 @@ Create the most popular new Lua widget using LVGL controls for EdgeTX color scre
 
 **Web Simulator Developer Contest**
 
-Be the first developer to make a web based EdgeTX radio firmware simulator and you will win a Flysky Elysium EL18 radio and Flysky FRM303 RF Module (Carefree edition) combo. The contest ends after first successful submission or on midnight April 30th, 2025 GMT.  Full contest details and rules can be found here: [https://edgetx.org/dc5_websimu](https://edgetx.org/dc5_websimu)
+Be the first developer to make a web based EdgeTX radio firmware simulator and you will win a Flysky Elysium EL18 radio and Flysky FRM303 RF Module (Carefree edition) combo. The contest ends after first successful submission or on midnight April 30th, 2025 GMT.  Full contest details and rules can be found here: [https://edgetx.org/dc5_websimu](dc5_websimu.md)
 
 ---
 
@@ -241,7 +241,7 @@ Malte Langermann (Malte) – Re-elected
 
 On February 11th, 2024, the PSC met, and Raphael Coeffic was voted Committee Chair for 2024.
 
-See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more information about the EdgeTX PSC.
+See the [EdgeTX project bylaws](bylaws.md) page for more information about the EdgeTX PSC.
 
 ---
 
@@ -377,7 +377,7 @@ Happy Flying!
 **EdgeTX Fest 2023**
 
 Join us on September 9th & 10th, 2023, for the EdgeTX Fest. We will celebrate the 2nd year of EdgeTX and the 50th year of our gracious hosts, the Heideflieger Hövelhof e.V Model Flight Club in Hövelhof, Germany. More information at:
- [https://edgetx.org/fest2023](https://edgetx.org/fest2023)
+ [https://edgetx.org/fest2023](fest2023.md)
  
 <p></p> 
 <p align="center">
@@ -407,7 +407,7 @@ We are currently searching for a great location in central Europe to host this s
 
 Our target timeframe for this memorable occasion is the first half of September.  To ensure convenience for everyone, we prefer a location within a 500km radius of Erfurt, Germany. Rest assured, all expenses associated with the event will be covered by the EdgeTX Team. We are also open to collaborating with your club's planned event, adding an extra layer of excitement to the festivities.
 
-If If you are interested or would like some more details, please visit the event page at: [https://edgetx.org/fest2023](https://edgetx.org/fest2023). Let's come together and make this event truly special!
+If If you are interested or would like some more details, please visit the event page at: [https://edgetx.org/fest2023](fest2023.md). Let's come together and make this event truly special!
 
 ---
 
@@ -431,7 +431,7 @@ On the 8th of January 2023, the new PSC met for the first time. During this meet
 
 The PSC extends a warm welcome to its newest member, Malte Langermann, whose knowledge and experience will be a valuable addition to the PSC and EdgeTX.
 
-See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more information about the EdgeTX PSC.
+See the [EdgeTX project bylaws](bylaws.md) page for more information about the EdgeTX PSC.
 
 ---
 
@@ -566,7 +566,7 @@ The second release is out - EdgeTX v2.5.0 with codename "Dauntless". It is the f
 
 **EdgeTX Roadmap added to the Dev Info Page**
 
-If you are interested in seeing what new features will come in future EdgeTX releases, check out the roadmap on the [Dev Info Page.](https://edgetx.org/devinfo)
+If you are interested in seeing what new features will come in future EdgeTX releases, check out the roadmap on the [Dev Info Page.](devinfo.md)
 
 ---
 

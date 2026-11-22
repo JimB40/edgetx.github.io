@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-<p></p> 
+<p></p>
 <p align="center">
 <a><img src="../assets/dc10_poster.png?raw=true" align="center" width="497"></a>
 </p>
@@ -21,7 +21,7 @@ The winning submission can be downloaded as a [3MF file](https://github.com/Edge
 
 Luis will receive a [blue RadioMaster TX16s MK3 MAX radio](https://radiomasterrc.com/products/tx16s-mk3-max-radio-controller-elrs-m2?variant=47239980679360) (per his request), generously sponsored by RadioMaster.
 
-The state-of-the-art radio will be shipped directly from the RadioMaster factory to Luis. 
+The state-of-the-art radio will be shipped directly from the RadioMaster factory to Luis.
 
 EdgeTX team is absolutely stunned by Luis's artistic talent paired with design and technical skills for constructing a perfectly 3D printable model files!
 
@@ -60,7 +60,7 @@ Bonus points will be given to the design that is divided into separately 3D prin
 
 **Rules**
 
-The contest ends on <del>midnight of March 1st, 2026 GMT</del> <span style="color:red;font-weight:bold;">extended to midnight of March 31st, 2026 GMT</span>, after which the winner will be picked by a vote of EdgeTX Project-Steering-Committee. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition. To be eligible to win the radio, an address of a 18+ years old person is required. 
+The contest ends on <del>midnight of March 1st, 2026 GMT</del> <span style="color:red;font-weight:bold;">extended to midnight of March 31st, 2026 GMT</span>, after which the winner will be picked by a vote of EdgeTX Project-Steering-Committee. Members of the <a href="../bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition. To be eligible to win the radio, an address of a 18+ years old person is required.
 
 The EdgeTX PSC reserves the right not to accept submissions that do not adhere to the devised task goals and / or may negatively impact EdgeTX. The decision of the winner by EdgeTX PSC is final and legal recourse is excluded.
 
@@ -75,7 +75,7 @@ The winner will get a RadioMaster [TX16s MK3 MAX](https://radiomasterrc.com/prod
 
 ## **Special thanks to our contest sponsor RadioMaster for their prize donation and helping to make this contest possible:**
 
-<p></p> 
+<p></p>
 <p align="center">
 <a href="https://www.radiomasterrc.com/" target="_blank"><img src="../assets/RadioMasterGold.png?raw=true" align="center" width="344"></a>
 </p>

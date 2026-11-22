@@ -33,7 +33,7 @@ The winner can pick a radio model between RadioMaster [TX15 MAX](https://radioma
 
 **Rules**
 
-To be eligible to win the radio, an address of a 18+ years old person is required. Entries from anyone, who has previously won an EdgeTX developer contest, will be accepted earliest on January 1st, 2026. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
+To be eligible to win the radio, an address of a 18+ years old person is required. Entries from anyone, who has previously won an EdgeTX developer contest, will be accepted earliest on January 1st, 2026. Members of the <a href="../bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
 
 The contests ends after first successful submission, or on midnight of January 18th, 2026 GMT.
 

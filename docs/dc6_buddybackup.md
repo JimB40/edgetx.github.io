@@ -50,7 +50,7 @@ As a bonus task, create in addition a standalone app with the same features and 
 
 **Rules**
 
-To be eligible to win the radio, an address of a 18+ years old person is required. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
+To be eligible to win the radio, an address of a 18+ years old person is required. Members of the <a href="../bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
 
 The contests ends after first successful submission, or on <del>midnight of April 30th, 2025 GMT.</del> <span style="color:red;font-weight:bold;">extended to midnight of March 1st, 2026 GMT.</span>
 

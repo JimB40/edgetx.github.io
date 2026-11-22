@@ -2,8 +2,6 @@
 
 ## Core Development Team and PSC { #meet-the-team }
 
-Photos and profile links will be added once confirmed.
-
 The badges show Development Team membership and participation in the **Project Steering Committee (PSC)**. PSC responsibilities and membership rules are defined in the [Project Bylaws](bylaws.md).
 
 <div class="etx-team-cards" aria-label="EdgeTX team">

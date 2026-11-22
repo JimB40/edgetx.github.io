@@ -4,6 +4,10 @@
 
 The current members of the EdgeTX core Development Team and Project Steering Committee (PSC) are listed below.
 
+!!! editorial "EDITORIAL NOTE — not for publication"
+
+    Confirm the spelling of all names and complete the profile details: approved photos or avatars, GitHub profiles and Discord profile links. Obtain permission before publishing personal photos.
+
 <div class="etx-team-cards" aria-label="EdgeTX team">
 <section class="etx-member-card" aria-label="Raphael Coeffic">
 <div class="etx-member-avatar" aria-hidden="true"><i data-lucide="user-round"></i></div>
@@ -52,9 +56,11 @@ The current members of the EdgeTX core Development Team and Project Steering Com
 </div></section>
 </div>
 
-## Current PSC term
+<span id="current-psc-term"></span>
 
-The fifth PSC term ends on **28 February 2027**. See the Bylaws for [terms and elections](bylaws.md#terms), [structure and roles](bylaws.md#structure), and [PSC responsibilities](bylaws.md#project-steering-committee).
+!!! note "Current PSC term"
+
+    The fifth PSC term ends on **28 February 2027**. See the Bylaws for [terms and elections](bylaws.md#terms), [structure and roles](bylaws.md#structure), and [PSC responsibilities](bylaws.md#project-steering-committee).
 
 ## Contributing to EdgeTX
 

@@ -47,10 +47,10 @@ Any use of the Logos not expressly permitted in this statement is strictly prohi
 Stacked and inline layouts, in black for light backgrounds and white for dark backgrounds.
 
 <div class="etx-brand-grid">
-<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Box_Black_Vector.svg" alt="Stacked · black" loading="lazy"></div><figcaption>Stacked · black</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Box_White_Vector.svg" alt="Stacked · white" loading="lazy"></div><figcaption>Stacked · white</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Line_Black_Vector.svg" alt="Inline · black" loading="lazy"></div><figcaption>Inline · black</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Line_White_Vector.svg" alt="Inline · white" loading="lazy"></div><figcaption>Inline · white</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Box_Black_Vector.svg" alt="Stacked · light background" loading="lazy"></div><figcaption>Stacked · light background</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Box_White_Vector.svg" alt="Stacked · dark background" loading="lazy"></div><figcaption>Stacked · dark background</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Line_Black_Vector.svg" alt="Inline · light background" loading="lazy"></div><figcaption>Inline · light background</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Line_White_Vector.svg" alt="Inline · dark background" loading="lazy"></div><figcaption>Inline · dark background</figcaption></figure>
 </div>
 
 <h4>Star Logo</h4>
@@ -59,10 +59,10 @@ One layout, available in color and monochrome variants.
 
 <div class="etx-brand-grid">
 <figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_Color_500.png" alt="Color" loading="lazy"></div><figcaption>Color</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_Black_NoBackground_Vector.svg" alt="Black · transparent" loading="lazy"></div><figcaption>Black · transparent</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_White_NoBackground_Vector.svg" alt="White · transparent" loading="lazy"></div><figcaption>White · transparent</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_Black_WhiteBackground_Vector.svg" alt="Black · white background" loading="lazy"></div><figcaption>Black · white background</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_White_BlackBackground_Vector.svg" alt="White · black background" loading="lazy"></div><figcaption>White · black background</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_Black_NoBackground_Vector.svg" alt="Light background · transparent" loading="lazy"></div><figcaption>Light background · transparent</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_White_NoBackground_Vector.svg" alt="Dark background · transparent" loading="lazy"></div><figcaption>Dark background · transparent</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_Black_WhiteBackground_Vector.svg" alt="Light background · solid" loading="lazy"></div><figcaption>Light background · solid</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_White_BlackBackground_Vector.svg" alt="Dark background · solid" loading="lazy"></div><figcaption>Dark background · solid</figcaption></figure>
 </div>
 
 <h4>Mascot Logo — Eddie the Hedgehog</h4>
@@ -70,8 +70,8 @@ One layout, available in color and monochrome variants.
 Use the version without a shadow on dark backgrounds and the version with a shadow on light backgrounds.
 
 <div class="etx-brand-grid">
-<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Vector.svg" alt="Color · no shadow" loading="lazy"></div><figcaption>Color · no shadow</figcaption></figure>
-<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Shadow_Vector.svg" alt="Color · with shadow" loading="lazy"></div><figcaption>Color · with shadow</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Vector.svg" alt="Dark background · no shadow" loading="lazy"></div><figcaption>Dark background · no shadow</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Shadow_Vector.svg" alt="Light background · with shadow" loading="lazy"></div><figcaption>Light background · with shadow</figcaption></figure>
 </div>
 
 For inquiries regarding the use of the Logo, or to request permission for any use not covered by this statement, please contact:

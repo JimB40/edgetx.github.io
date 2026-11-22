@@ -27,14 +27,14 @@ The firmware source is maintained in the [EdgeTX repository on GitHub](https://g
 
 ## How the project is organized
 
-EdgeTX is a community project governed by a Project Steering Committee (PSC). The Development Team maintains and develops the software, alongside contributors who help with code, testing, documentation, translations and user support.
+EdgeTX is developed by a core [Development Team](team.md), alongside community contributors who help with code, testing, documentation, translations and user support.
 
-The [Project Bylaws](bylaws.md) define how the project operates, including responsibilities, elections, decision-making and team membership.
+To coordinate development and manage the project, some members of the core team also serve on the [Project Steering Committee (PSC)](team.md). The PSC provides project oversight and direction, with its responsibilities and operating rules defined in the [Project Bylaws](bylaws.md).
 
-Meet the people behind the project on the [Team page](team.md).
-
-## Have questions about the EdgeTX project?
+## Questions about the project?
 
 For questions about the project or its governance, contact the PSC on [Discord](https://discord.gg/wF9wUKnZ6H) or by email at [psc@edgetx.org](mailto:psc@edgetx.org).
 
-For help using EdgeTX or resolving a technical issue, visit [Support](support.md).
+!!! info "Please use the right channel"
+
+    Please email the PSC only about collaboration or the organization of the project. For help using the firmware, visit [Support](support.md). To [report a bug](https://github.com/EdgeTX/edgetx/issues/new?template=bug-report.yml) or [request a feature](https://github.com/EdgeTX/edgetx/issues/new?template=feature-request.yml), use the GitHub issue tracker rather than the PSC email address.

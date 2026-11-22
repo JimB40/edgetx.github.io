@@ -76,7 +76,7 @@ theme:
   - navigation.top
 extra_css:
 - assets/website-3.0/homepage.css?v=20261122-28
-- stylesheets/extra.css?v=20261122-30
+- stylesheets/extra.css?v=20261122-31
 extra:
   social:
   - icon: fontawesome/brands/discord
@@ -247,3 +247,4 @@ markdown_extensions:
     permalink: false
 - attr_list
 - footnotes
+- admonition

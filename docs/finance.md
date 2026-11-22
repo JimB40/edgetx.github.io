@@ -1,14 +1,10 @@
 # Finance and Transparency
 
-EdgeTX is an open-source community project. Financial contributions help cover the infrastructure and services needed to keep it running, alongside the time and expertise contributed by volunteers.
+Running EdgeTX involves project expenses, including infrastructure, hosting, build services and development or test hardware. These costs are funded primarily by donations from individuals and contributions from manufacturers through the [partnership program](partnershipprogram.md).
 
-## What financial support helps fund
+## Financial transparency
 
-Running the project involves costs such as hosting, build services and development or test hardware. Donations help sustain this shared infrastructure and support continued development.
-
-## Public finances
-
-The project uses Open Collective to receive financial contributions and publish its financial activity. You can review contributions, recorded expenses and the available project balance there.
+Financial transparency is one of EdgeTX’s core values. The project uses Open Collective to collect funds and make its financial activity publicly accessible. Anyone can see the contributions received, how funds are spent and the available project balance.
 
 [View EdgeTX finances on Open Collective](https://opencollective.com/edgetx)
 

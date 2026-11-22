@@ -5,7 +5,7 @@
 The badges show Development Team membership and participation in the **Project Steering Committee (PSC)**. PSC responsibilities and membership rules are defined in the [Project Bylaws](bylaws.md).
 
 <div class="etx-team-table" role="region" aria-label="EdgeTX team" tabindex="0">
-<table><thead><tr><th scope="col">Name</th><th scope="col">Discord username</th><th scope="col">Roles</th></tr></thead><tbody>
+<table class="etx-team-grid"><thead><tr><th scope="col">Name</th><th scope="col">Discord username</th><th scope="col">Roles</th></tr></thead><tbody>
 <tr><th scope="row">Raphael Coeffic</th><td>pafleraf</td><td><div class="etx-team-roles"><span class="etx-team-badge">Development Team</span> <span class="etx-team-badge etx-team-psc">PSC Chair</span></div></td></tr>
 <tr><th scope="row">Jean-Christophe Dreyfus</th><td>3djc</td><td><div class="etx-team-roles"><span class="etx-team-badge">Development Team</span></div></td></tr>
 <tr><th scope="row">Peter Feerick</th><td>pfeerick</td><td><div class="etx-team-roles"><span class="etx-team-badge">Development Team</span> <span class="etx-team-badge etx-team-psc">PSC</span></div></td></tr>

@@ -101,3 +101,5 @@
 .etx-document .etx-member-card .etx-member-info h3{font-size:16px;line-height:1.3;margin:0 0 3px;letter-spacing:0}
 
 .etx-document .md-typeset .admonition.editorial{background:light-dark(#f7f0fa,#2c2333);border-color:light-dark(#dbc6e5,#60436e);border-left-color:#a63cbe}.etx-document .md-typeset .editorial>.admonition-title{font-size:11px;letter-spacing:.3px}.etx-document .md-typeset .editorial>.admonition-title::before{background-color:#a63cbe}
+
+.etx-document .md-typeset .admonition.info{background:var(--soft);border:1px solid var(--line);border-left:2px solid var(--line)}.etx-document .md-typeset .admonition.info>.admonition-title::before{background-color:var(--sub)}

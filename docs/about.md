@@ -1,39 +1,58 @@
+# About EdgeTX
 
-### What is EdgeTX?
+## What is EdgeTX?
 
-EdgeTX is an open-source firmware for remote control transmitters used in hobbyist RC (radio-controlled) flying and other activities. It is highly customizable, allowing users to configure their transmitters and adjust settings to suit their individual preferences and specific needs.
+EdgeTX is open-source firmware for radio control transmitters. It lets you configure your radio for flying, driving, sailing and other RC activities, with controls, model settings and screen layouts that suit the way you use it.
 
-EdgeTX supports a wide range of RC protocols and can be used with a variety of different transmitters, making it a popular choice among the RC community. Its flexible and powerful features make it a versatile tool for advanced users who want to take their RC activities to the next level.
+The project brings together firmware, desktop and browser tools, documentation and community contributions. To find out whether your radio is compatible, see [supported radios](supportedradios.md).
 
-The EdgeTX project was started on May 6, 2021, as a fork of OpenTX (another open-source radio controller firmware) to create a more optimized, touch-enabled user interface. EdgeTX offers many of the same features as OpenTX. However, it also includes some unique features and improvements over OpenTX, such as a touch-friendly user interface, improved support for Lua scripting, easier integration with third-party hardware, a rapid development cycle, and many other enhancements.
+## Our story
 
-Overall, EdgeTX aims to provide a more user-friendly and streamlined experience for hobbyist RC enthusiasts who want a powerful and customizable firmware for their transmitters. 
+EdgeTX began on 6 May 2021 as a fork of OpenTX, with the aim of creating a more optimized, touch-friendly user interface. It has continued to develop through contributions from the RC community, including improvements to Lua scripting, hardware support and the tools used alongside the firmware.
 
-### Project Management
+The source code is available in the [EdgeTX GitHub organization](https://github.com/EdgeTX).
 
-The EdgeTX Project Steering Committee (PSC) is the official governing body of the EdgeTX open-source project and is responsible for all management aspects. The PSC is responsible for setting the overall direction of the project and its releases, determining what features go in, managing the documentation, assigning and revoking commit rights, etc.
+## How the project is organized
 
-The current committee members (and their discord usernames) are:
+EdgeTX is a community project governed by a Project Steering Committee (PSC). The Development Team maintains and develops the software, alongside contributors who help with code, testing, documentation, translations and user support.
 
-- Raphael Coeffic (pafleraf) - Committee Chair
-- Robert Janiszewski (JimB40)
-- Peter Feerick (pfeerick)
-- Risto Kõiva (Risto)
-- Richard Li (Richard Li)
-- Malte Langermann (Malte)
+The [Project Bylaws](bylaws.md) define how the project operates, including responsibilities, elections, decision-making and team membership.
 
-For more information about how the EdgeTX project is managed, see our [project bylaws page.](bylaws.md)
+## Project Steering Committee
 
-### Development Team
+The PSC provides oversight and direction for the project. Its current members are listed below, with their Discord usernames:
 
-The EdgeTX Development Team maintains and develops the firmware and its supporting tools, working with contributors across the project. Development also relies on testing, issue reports and documentation from the wider community.
+| Member | Discord username | Role |
+| --- | --- | --- |
+| Raphael Coeffic | pafleraf | Chair |
+| Peter Feerick | pfeerick | Member |
+| Robert Janiszewski | JimB40 | Member |
+| Risto Kõiva | Risto | Member |
+| Malte Langermann | Malte | Member |
+| Richard Li | Richard Li | Member |
 
-Interested in helping? See [how to contribute](recruiting.md), including ways to help test releases and report issues.
+The fifth PSC term ends on **28 February 2027**.
 
-### Have questions about the EdgeTX Project?
+See the Bylaws for [PSC responsibilities](bylaws.md#project-steering-committee), [structure and roles](bylaws.md#structure), and [terms and elections](bylaws.md#terms).
 
-For EdgeTX project related questions, contact the project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org 
+## Development Team { #development-team }
 
-For support related questions and issues, please visit the [support page](support.md).
+The Development Team maintains and develops EdgeTX firmware and its supporting tools. Its current membership comprises the PSC members listed above and the following developers:
 
+| Member | Discord username |
+| --- | --- |
+| Jean-Christophe Dreyfus | 3djc |
+| Neil Horne | elecpower |
+| Phil Mitchell | philmoz |
 
+Formal team membership is distinct from contributing to the project. EdgeTX also depends on the work of its wider community; see [contributors on GitHub](https://github.com/EdgeTX/edgetx/graphs/contributors).
+
+The Bylaws describe [Development Team membership](bylaws.md#edgetx-development-team), including its connection to the [Non-Disclosure Policy](nda.md). For practical development resources, see [Developer Information](devinfo.md).
+
+Testing is an especially valuable way to help: trying releases on real radios, reporting reproducible issues and checking fixes all improve the software. See [how to contribute](recruiting.md) for this and other ways to get involved.
+
+## Have questions about the EdgeTX project?
+
+For questions about the project or its governance, contact the PSC on [Discord](https://discord.gg/wF9wUKnZ6H) or by email at [psc@edgetx.org](mailto:psc@edgetx.org).
+
+For help using EdgeTX or resolving a technical issue, visit [Support](support.md).

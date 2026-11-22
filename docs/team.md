@@ -1,12 +1,12 @@
 # Team
 
-## Core Development Team and PSC { #meet-the-team }
-
-The current members of the EdgeTX core Development Team and Project Steering Committee (PSC) are listed below.
-
 !!! editorial "EDITORIAL NOTE — not for publication"
 
     Confirm the spelling of all names and complete the profile details: approved photos or avatars, GitHub profiles and Discord profile links. Obtain permission before publishing personal photos.
+
+## Core Development Team and PSC { #meet-the-team }
+
+The current members of the EdgeTX core Development Team and Project Steering Committee (PSC) are listed below.
 
 <div class="etx-team-cards" aria-label="EdgeTX team">
 <section class="etx-member-card" aria-label="Raphael Coeffic">

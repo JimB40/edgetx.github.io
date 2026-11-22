@@ -107,3 +107,5 @@ html{scroll-padding-top:120px}
 .etx-design .etx-member-body .etx-member-info{flex:0 0 225px}.etx-design .etx-member-body>.etx-team-roles{flex:0 0 auto}.etx-design .etx-member-body .etx-member-profiles{margin-left:auto}
 
 .etx-design .etx-member-body{gap:12px}.etx-design .etx-member-body .etx-member-info{flex:0 0 auto;width:max-content}
+
+.etx-design .etx-member-body .etx-member-info{flex:0 0 var(--team-name-width,225px);width:var(--team-name-width,225px)}

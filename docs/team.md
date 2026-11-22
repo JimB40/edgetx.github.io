@@ -1,6 +1,6 @@
 # Team
 
-## Core Development Team and PSC
+## Core Development Team and PSC { #meet-the-team }
 
 The badges show Development Team membership and participation in the **Project Steering Committee (PSC)**. PSC responsibilities and membership rules are defined in the [Project Bylaws](bylaws.md).
 

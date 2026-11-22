@@ -58,3 +58,6 @@
 @media(max-width:899px){.etx-document .etx-content-column{order:2;width:100%}.etx-document .md-sidebar{margin-top:0}}
 
 .etx-team-table{overflow-x:auto;margin:18px 0}.etx-team-table table{width:100%;border-collapse:collapse;font-size:14px}.etx-team-table th,.etx-team-table td{padding:12px 14px;text-align:left;border-bottom:1px solid var(--line);vertical-align:middle}.etx-team-table thead{background:var(--soft)}.etx-team-table tbody th{font-weight:600;white-space:nowrap}.etx-team-roles{display:flex;flex-wrap:wrap;gap:6px}.etx-team-badge{display:inline-block;white-space:nowrap;border-radius:5px;padding:3px 7px;font-size:11px;font-weight:600;background:var(--soft);color:var(--sub);border:1px solid var(--line)}.etx-team-psc{color:var(--blue);border-color:color-mix(in srgb,var(--blue) 35%,var(--line));background:color-mix(in srgb,var(--blue) 9%,var(--paper))}
+
+/* Hidden page titles must not leave the first section with a top margin. */
+.etx-document .md-content__inner>h1+*{margin-top:0}

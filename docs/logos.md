@@ -42,7 +42,7 @@ Any use of the Logos not expressly permitted in this statement is strictly prohi
 
 ### Logo Versions and Color Variations
 
-#### Text Logo
+<h4>Text Logo</h4>
 
 Stacked and inline layouts, in black for light backgrounds and white for dark backgrounds.
 
@@ -53,7 +53,7 @@ Stacked and inline layouts, in black for light backgrounds and white for dark ba
 <figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Line_White_Vector.svg" alt="Inline · white" loading="lazy"></div><figcaption>Inline · white</figcaption></figure>
 </div>
 
-#### Star Logo
+<h4>Star Logo</h4>
 
 One layout, available in color and monochrome variants.
 
@@ -65,7 +65,7 @@ One layout, available in color and monochrome variants.
 <figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_White_BlackBackground_Vector.svg" alt="White · black background" loading="lazy"></div><figcaption>White · black background</figcaption></figure>
 </div>
 
-#### Mascot Logo — Eddie the Hedgehog
+<h4>Mascot Logo — Eddie the Hedgehog</h4>
 
 Use the version without a shadow on dark backgrounds and the version with a shadow on light backgrounds.
 

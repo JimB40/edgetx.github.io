@@ -7,7 +7,9 @@ copyright: Copyright &copy; 2021-2026 EdgeTX
 nav:
 - Home: index.md
 - Project:
-  - About EdgeTX: about.md
+  - General info:
+    - About EdgeTX: about.md
+    - Team: team.md
   - Governance and policies:
     - Project Bylaws: bylaws.md
     - Non-Disclosure Policy: nda.md
@@ -72,8 +74,8 @@ theme:
   - toc.follow
   - navigation.top
 extra_css:
-- assets/website-3.0/homepage.css?v=20261122-14
-- stylesheets/extra.css?v=20261122-14
+- assets/website-3.0/homepage.css?v=20261122-15
+- stylesheets/extra.css?v=20261122-15
 extra:
   social:
   - icon: fontawesome/brands/discord
@@ -94,11 +96,14 @@ extra:
     aliases:
     - project.md
     groups:
-    - title: ''
+    - title: General info
       items:
       - title: About EdgeTX
         src: about.md
         description: Project overview, history and current team.
+      - title: Team
+        src: team.md
+        description: Team members, Development Team and PSC roles.
     - title: Governance and policies
       items:
       - title: Project Bylaws

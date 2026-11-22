@@ -1,6 +1,6 @@
 # EdgeTX Project Bylaws
 
-These bylaws define the purpose, governance and operating rules of the EdgeTX project. For the project’s history and current team membership, see [About EdgeTX](about.md).
+These bylaws define the purpose, governance and operating rules of the EdgeTX project. For the project’s history, see [About EdgeTX](about.md). Current membership is listed on [Team](team.md).
 
 ## Name and purpose
 
@@ -22,7 +22,7 @@ The EdgeTX Project Steering Committee (PSC) is the official governing body of th
 
 The section that follows describes how the (PSC) is formed and operates to make decisions on all aspects (both technical and non-technical) of the EdgeTX project.
 
-See [About EdgeTX](about.md#project-steering-committee) for the current PSC members, roles and term.
+See [Team](team.md) for the current PSC members, roles and term.
 
 ## Structure
 
@@ -32,7 +32,7 @@ One member of the PSC is appointed the Chair, who has additional responsibilitie
 
 ## Terms
 
-Positions in the PSC have a term of 1 year. Committee members should continue to serve until a replacement has been officially voted in. The [current term](about.md#project-steering-committee) is listed on About EdgeTX.
+Positions in the PSC have a term of 1 year. Committee members should continue to serve until a replacement has been officially voted in. The [current term](team.md#current-psc-term) is listed on the Team page.
 
 ## Committee Member Elections
 
@@ -88,7 +88,7 @@ The chair may appoint one member of the PSC committee as secretary to take minut
 The EdgeTX Development Team consists of most active developers participating in the project. PSC members, who are also active developers themselves, are automatically seen as members of the EdgeTX Development Team. For the addition and removal of EdgeTX Development Team members a majority PSC vote is required.
 Only those who abide by the [Non-Disclosure Policy](nda.md) may present themselves as members of the EdgeTX Development Team.
 
-See [About EdgeTX](about.md#development-team) for the current Development Team membership. Practical resources for contributors are listed under [Developer Information](devinfo.md).
+See [Team](team.md#meet-the-team) for the current Development Team membership. Practical resources for contributors are listed under [Developer Information](devinfo.md).
 
 ## Community conduct { #code-of-conduct }
 

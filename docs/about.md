@@ -18,38 +18,7 @@ EdgeTX is a community project governed by a Project Steering Committee (PSC). Th
 
 The [Project Bylaws](bylaws.md) define how the project operates, including responsibilities, elections, decision-making and team membership.
 
-## Project Steering Committee
-
-The PSC provides oversight and direction for the project. Its current members are listed below, with their Discord usernames:
-
-| Member | Discord username | Role |
-| --- | --- | --- |
-| Raphael Coeffic | pafleraf | Chair |
-| Peter Feerick | pfeerick | Member |
-| Robert Janiszewski | JimB40 | Member |
-| Risto Kõiva | Risto | Member |
-| Malte Langermann | Malte | Member |
-| Richard Li | Richard Li | Member |
-
-The fifth PSC term ends on **28 February 2027**.
-
-See the Bylaws for [PSC responsibilities](bylaws.md#project-steering-committee), [structure and roles](bylaws.md#structure), and [terms and elections](bylaws.md#terms).
-
-## Development Team { #development-team }
-
-The Development Team maintains and develops EdgeTX firmware and its supporting tools. Its current membership comprises the PSC members listed above and the following developers:
-
-| Member | Discord username |
-| --- | --- |
-| Jean-Christophe Dreyfus | 3djc |
-| Neil Horne | elecpower |
-| Phil Mitchell | philmoz |
-
-Formal team membership is distinct from contributing to the project. EdgeTX also depends on the work of its wider community; see [contributors on GitHub](https://github.com/EdgeTX/edgetx/graphs/contributors).
-
-The Bylaws describe [Development Team membership](bylaws.md#edgetx-development-team), including its connection to the [Non-Disclosure Policy](nda.md). For practical development resources, see [Developer Information](devinfo.md).
-
-Testing is an especially valuable way to help: trying releases on real radios, reporting reproducible issues and checking fixes all improve the software. See [how to contribute](recruiting.md) for this and other ways to get involved.
+Meet the people behind the project on the [Team page](team.md).
 
 ## Have questions about the EdgeTX project?
 

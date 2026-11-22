@@ -16,7 +16,7 @@ This page explains the approach; the transaction records on Open Collective are 
 
 ## Who makes spending decisions?
 
-The Project Steering Committee is responsible for decisions on project expenditures. Its responsibilities are described in the [Project Bylaws](bylaws.md#responsibilities). The [About page](about.md#project-steering-committee) lists the current committee members.
+The Project Steering Committee is responsible for decisions on project expenditures. Its responsibilities are described in the [Project Bylaws](bylaws.md#responsibilities). The [Team page](team.md) lists the current committee members.
 
 ## Supporting the project
 

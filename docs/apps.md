@@ -1,3 +1,13 @@
+---
+overview_sections:
+  - title: WebSim
+    id: websim
+  - title: Buddy
+    id: buddy
+  - title: Companion
+    id: companion
+---
+
 # Apps
 
 <section class="etx-overview-row" aria-labelledby="websim"><div class="etx-overview-visual"><img src="../assets/website-3.0/images/websim-overview.svg" alt="Radio simulator illustration"></div><div class="etx-overview-copy"><h2 id="websim">WebSim</h2><p>Explore the EdgeTX radio interface in your browser without installing software or connecting a radio. WebSim provides a convenient way to get familiar with controls and try model setup.</p><a class="etx-overview-link" href="https://sim.edgetx.org/" target="_blank" rel="noopener noreferrer">Launch WebSim ↗</a></div></section>

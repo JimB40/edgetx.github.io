@@ -29,7 +29,7 @@
 {% block tabs %}{% endblock %}
 {% block site_nav %}
 <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation"><div class="md-sidebar__scrollwrap"><div class="md-sidebar__inner">{% include "partials/context-menu.html" %}</div></div></div>
-<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc"><div class="md-sidebar__scrollwrap"><div class="md-sidebar__inner"><details class="etx-page-toc" open><summary>On this page</summary>{% include "partials/toc.html" %}</details></div></div></div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc"><div class="md-sidebar__scrollwrap"><div class="md-sidebar__inner"><details class="etx-page-toc" open><summary>On this page</summary>{% if page.meta.overview_sections %}<nav class="md-nav md-nav--secondary" aria-label="On this page"><ul class="md-nav__list">{% for item in page.meta.overview_sections %}<li class="md-nav__item"><a class="md-nav__link" href="#{{ item.id }}">{{ item.title }}</a></li>{% endfor %}</ul></nav>{% else %}{% include "partials/toc.html" %}{% endif %}</details></div></div></div>
 {% endblock %}
 {% block footer %}{% include "partials/website-footer.html" %}{% endblock %}
 {% block scripts %}

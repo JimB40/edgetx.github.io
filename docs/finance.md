@@ -4,11 +4,8 @@ Running EdgeTX involves project expenses, including infrastructure, hosting, bui
 
 ## Financial transparency
 
-Financial transparency is one of EdgeTX’s core values. The project uses Open Collective to collect funds and make its financial activity publicly accessible. Anyone can see the contributions received, how funds are spent and the available project balance.
+Financial transparency is one of EdgeTX’s core values. The project uses [Open Collective](https://opencollective.com/edgetx) to collect funds and make its financial activity publicly accessible. Anyone can see the contributions received, how funds are spent and the available project balance.
 
-[View EdgeTX finances on Open Collective](https://opencollective.com/edgetx)
-
-This page explains the approach; the transaction records on Open Collective are the source for current amounts and individual expenses.
 
 ## Who makes spending decisions?
 

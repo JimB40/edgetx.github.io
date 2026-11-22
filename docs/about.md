@@ -2,9 +2,13 @@
 
 ## What is EdgeTX?
 
-EdgeTX is open-source firmware for radio control transmitters. It lets you configure your radio for flying, driving, sailing and other RC activities, with controls, model settings and screen layouts that suit the way you use it.
+EdgeTX is open-source firmware for RC transmitters, designed for maximum flexibility.
 
-The project brings together firmware, desktop and browser tools, documentation and community contributions. To find out whether your radio is compatible, see [supported radios](supportedradios.md).
+- **Configure your models your way.** A comprehensive set of tools lets you configure virtually any RC model, with multiple ways to approach each setup.
+- **Choose your hardware.** Support for a wide range of transmitters from multiple manufacturers. Explore the [supported radios](supportedradios.md).
+- **Connect your telemetry.** Compatibility with a broad range of telemetry protocols.
+- **Make it your own.** Customize your radio visually with themes and extend its functionality with Lua scripts and widgets.
+- **Explore and contribute.** Openly available source code lets anyone understand how EdgeTX works, contribute improvements and help shape its development.
 
 ## Our story
 

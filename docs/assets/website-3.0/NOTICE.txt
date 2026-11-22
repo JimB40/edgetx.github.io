@@ -4,3 +4,5 @@ Homepage images are extracted from the approved local concept and reused from th
 
 Lucide 0.468.0 (ISC): https://github.com/lucide-icons/lucide/blob/0.468.0/LICENSE
 Simple Icons 13.21.0 (CC0; brand marks retain their respective trademark rights): https://github.com/simple-icons/simple-icons/tree/13.21.0
+
+Roboto Regular and Bold: copied from EdgeTX radio/src/fonts/Roboto. Distributed under Apache License 2.0; see fonts/LICENSE.txt.

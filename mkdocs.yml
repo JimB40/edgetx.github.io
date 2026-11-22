@@ -240,6 +240,6 @@ extra:
         description: Bringing EdgeTX to new hardware.
 markdown_extensions:
 - toc:
-    permalink: true
+    permalink: false
 - attr_list
 - footnotes

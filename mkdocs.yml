@@ -17,6 +17,8 @@ nav:
     - Branding & Logos: logos.md
     - Community Guidelines: community-guidelines.md
     - Finance and Transparency: finance.md
+- Apps: apps.md
+- Add-ons: add-ons.md
 - Docs:
   - Documentation:
     - Documentation: resources.md
@@ -75,7 +77,7 @@ theme:
   - toc.follow
   - navigation.top
 extra_css:
-- assets/website-3.0/homepage.css?v=20261122-51
+- assets/website-3.0/homepage.css?v=20261122-53
 - stylesheets/extra.css?v=20261122-52
 extra:
   social:
@@ -242,6 +244,24 @@ extra:
       - title: EdgeTX on your radio
         src: edgetxsupport.md
         description: Bringing EdgeTX to new hardware.
+  - title: Apps
+    landing: apps/
+    aliases: []
+    groups:
+    - title: Apps
+      items:
+      - title: Overview
+        src: apps.md
+        description: Applications for setup, installation and simulation.
+  - title: Add-ons
+    landing: add-ons/
+    aliases: []
+    groups:
+    - title: Add-ons
+      items:
+      - title: Overview
+        src: add-ons.md
+        description: Themes, Lua scripts and widgets.
 markdown_extensions:
 - toc:
     permalink: false

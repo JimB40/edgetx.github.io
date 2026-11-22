@@ -126,3 +126,11 @@ html{scroll-padding-top:120px}
 .etx-design .etx-member-body>.etx-team-roles{min-height:38px;justify-content:flex-start}
 
 .etx-design .etx-member-card .etx-team-badge:not(.etx-team-psc){background:color-mix(in srgb,var(--blue) 9%,var(--paper));color:var(--blue);border-color:color-mix(in srgb,var(--blue) 35%,var(--line))}.etx-design .etx-member-card .etx-team-psc{background:light-dark(#f1e3f7,#3a2546);color:light-dark(#79278f,#e3b7f0);border-color:light-dark(#cfa4df,#8b58a1)}
+
+/* Section names navigate; adjacent disclosure controls shortcuts. */
+.etx-design .etx-section-nav{position:relative;display:flex;align-items:center;gap:3px;min-height:30px}
+.etx-design .etx-section-nav>a{display:inline-flex;align-items:center;min-height:30px;line-height:1.2}
+.etx-design .etx-section-nav>.etx-section-dropdown{position:static;margin:0}
+.etx-design .etx-section-nav summary{justify-content:center;width:20px;padding:0}
+.etx-design .etx-section-nav .etx-github-dropdown{left:0;right:auto;top:100%;padding-top:7px}
+.etx-design .etx-section-nav summary:focus-visible{outline:2px solid currentColor;outline-offset:2px;border-radius:4px}

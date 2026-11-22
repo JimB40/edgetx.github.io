@@ -42,3 +42,9 @@ Team review can be collected as GitHub issues and on the upstream draft pull req
 ## Current review scope
 
 Desktop layout and content approval only. Custom mobile/tablet breakpoints and width-based menu collapsing have been removed. Responsive layouts will be designed after the desktop version and content are approved.
+
+## Navigation interaction — agreed behavior and responsive TODO
+
+- Desktop: section labels link to their overview pages. Adjacent arrow buttons independently toggle shortcut dropdowns. Hovering either label or arrow also opens the dropdown; moving into its links keeps it open. Escape and outside clicks close it. Keyboard activation remains supported.
+- Apps and Add-ons currently implement this pattern. Apply it to other sections when their dropdown contents are agreed.
+- TODO after desktop/content approval: on tablet and phone, preserve separate targets. Tapping the label navigates; tapping the arrow toggles the dropdown without navigating. Do not rely on hover. Design adequate touch targets and responsive navigation at that stage; no mobile/tablet layout work now.

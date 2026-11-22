@@ -1,15 +1,7 @@
 # Apps
 
-EdgeTX applications support radio setup, firmware installation and simulation.
+<section class="etx-overview-row" aria-labelledby="websim"><div class="etx-overview-visual"><img src="../assets/website-3.0/images/websim-overview.svg" alt="Radio simulator illustration"></div><div class="etx-overview-copy"><h2 id="websim">WebSim</h2><p>Explore the EdgeTX radio interface in your browser without installing software or connecting a radio. WebSim provides a convenient way to get familiar with controls and try model setup.</p><a class="etx-overview-link" href="https://sim.edgetx.org/" target="_blank" rel="noopener noreferrer">Launch WebSim ↗</a></div></section>
 
-## WebSim
+<section class="etx-overview-row" aria-labelledby="buddy"><div class="etx-overview-visual"><img src="../assets/website-3.0/images/buddy-overview.svg" alt="Browser firmware installation and SD card illustration"></div><div class="etx-overview-copy"><h2 id="buddy">Buddy</h2><p>Install EdgeTX firmware, update SD card content and back up your radio using a browser. Buddy brings the installation and maintenance tools together in one place.</p><a class="etx-overview-link" href="https://buddy.edgetx.org/" target="_blank" rel="noopener noreferrer">Open Buddy ↗</a></div></section>
 
-Try EdgeTX in a browser with the [WebSim simulator](https://sim.edgetx.org/){target=_blank rel="noopener noreferrer"}.
-
-## Buddy
-
-Use [EdgeTX Buddy](https://buddy.edgetx.org/){target=_blank rel="noopener noreferrer"} to install firmware and manage SD card content from a browser.
-
-## Companion
-
-[EdgeTX Companion](getedgetx.md){target=_blank rel="noopener noreferrer"} is the desktop application for editing model settings and simulating radio setups.
+<section class="etx-overview-row" aria-labelledby="companion"><div class="etx-overview-visual"><img src="../assets/website-3.0/images/companion-overview.svg" alt="Desktop model management illustration"></div><div class="etx-overview-copy"><h2 id="companion">Companion</h2><p>Manage models and radio settings on your computer. Companion offers a desktop workspace for editing configurations and a simulator for checking radio setups.</p><a class="etx-overview-link" href="../getedgetx/" target="_blank" rel="noopener noreferrer">Get Companion ↗</a></div></section>

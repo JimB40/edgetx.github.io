@@ -9,8 +9,7 @@ EdgeTX:
 - Provides a comprehensive set of tools for configuring virtually any RC model, with multiple ways to approach each setup. Supporting applications include [WebSim](https://sim.edgetx.org/){target="_blank" rel="noopener noreferrer"}, [Buddy](https://buddy.edgetx.org/){target="_blank" rel="noopener noreferrer"} and [Companion](getedgetx.md){target="_blank" rel="noopener noreferrer"}.
 - Supports a [wide range of transmitters](supportedradios.md) from multiple [manufacturers](partnershipprogram.md).
 - Supports a wide range of RC transmission protocols and telemetry, including the most popular ones such as ExpressLRS, Crossfire, ACCST, AFHDS and DSM, through compatible RF modules.
-- Allows visual customization through themes and extends functionality through Lua scripts and widgets.
-- Provides openly available source code that lets anyone understand how EdgeTX works, contribute improvements and help shape its development.
+- Allows visual customization through [themes](https://edgetx.org/themes/){target="_blank" rel="noopener noreferrer"} and extends functionality through [Lua scripts and widgets](https://edgetx.org/lua-scripts/){target="_blank" rel="noopener noreferrer"}.
 
 ## Our story
 

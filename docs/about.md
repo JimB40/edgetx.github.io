@@ -6,7 +6,7 @@ EdgeTX is open-source firmware for RC transmitters, designed for maximum flexibi
 
 EdgeTX:
 
-- Provides a comprehensive set of tools for configuring virtually any RC model, with multiple ways to approach each setup.
+- Provides a comprehensive set of tools for configuring virtually any RC model, with multiple ways to approach each setup. Supporting applications include [WebSim](https://sim.edgetx.org/){target="_blank" rel="noopener noreferrer"}, [Buddy](https://buddy.edgetx.org/){target="_blank" rel="noopener noreferrer"} and [Companion](getedgetx.md){target="_blank" rel="noopener noreferrer"}.
 - Supports a wide range of transmitters from multiple manufacturers. See [supported radios](supportedradios.md).
 - Is compatible with a broad range of telemetry protocols.
 - Allows visual customization through themes and extends functionality through Lua scripts and widgets.

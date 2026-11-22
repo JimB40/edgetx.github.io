@@ -6,7 +6,7 @@ hide:
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/dc4_poster.png?raw=true" align="center" width="497"></a>
+<a><img src="../assets/dc4_poster.png?raw=true" align="center" width="497"></a>
 </P>
 
 ## **Announcement: Winner of the Companion Simulator Physical Serial Port Connectivity Developer Contest!** ##
@@ -46,5 +46,5 @@ The EdgeTX PSC reserves the right not to accept submissions that work incorrectl
 
 <p></p> 
 <p align="center">
-<a href="https://www.jumper-rc.com/" target="_blank"><img src="/assets/JumperGold.png?raw=true" align="center" width="344"></a>
+<a href="https://www.jumper-rc.com/" target="_blank"><img src="../assets/JumperGold.png?raw=true" align="center" width="344"></a>
 </p>

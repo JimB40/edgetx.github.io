@@ -6,7 +6,7 @@ hide:
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/dc10_poster.png?raw=true" align="center" width="497"></a>
+<a><img src="../assets/dc10_poster.png?raw=true" align="center" width="497"></a>
 </p>
 
 ## **Contest Details**
@@ -15,7 +15,7 @@ hide:
 
 We have a winner - congratulations **Luis Loreto**!
 
-<img src="/assets/LuisLoreto.png?raw=true" width="500"> <a href="https://www.youtube.com/watch?v=_5A6PGu124k"><img src="/assets/EddieRotationYTvid.jpg?raw=true" width="474"></a>
+<img src="../assets/LuisLoreto.png?raw=true" width="500"> <a href="https://www.youtube.com/watch?v=_5A6PGu124k"><img src="../assets/EddieRotationYTvid.jpg?raw=true" width="474"></a>
 
 The winning submission can be downloaded as a [3MF file](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie.3mf) (created using Orca slicer). You can find detailed [3D printing instructions](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddiePrintingInstructions.pdf) as downloadable PDF file.
 
@@ -30,14 +30,14 @@ Due to very high quality of submissions in this contest, we wish to honor the ru
 
 The second place goes to **Feby Kristianto** (EdgeTX Discord user **FebyKris**). His submission can be downloaded from our webpage: [3DEddie_by_FebyKris.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_FebyKris.3mf)
 
-<img src="/assets/3DEddie_FebyKris.png?raw=true" align="center" width="500">
+<img src="../assets/3DEddie_FebyKris.png?raw=true" align="center" width="500">
 
 Feby will receive a reimbursement of up to 100 EUR via our OpenCollective page for a R/C or 3D printing related purchase.
 
 
 The third place goes to **Aviv Levy**. His submission can be downloaded from our webpage: [3DEddie_by_AvivLevy.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_AvivLevy.3mf)
 
-<img src="/assets/3DEddie_AvivLevy.png?raw=true" align="center" width="300">
+<img src="../assets/3DEddie_AvivLevy.png?raw=true" align="center" width="300">
 
 Aviv will receive a reimbursement of up to 50 EUR via our OpenCollective page for a R/C or 3D printing related purchase.
 
@@ -51,7 +51,7 @@ Original contest text below:
 
 Create the best volumetric 3D printable model of EdgeTX mascot *Eddie the Edgehog* together with EdgeTX star logo:
 
-<a><img src="/assets/edgehog.png?raw=true" align="center" width="300"></a>
+<a><img src="../assets/edgehog.png?raw=true" align="center" width="300"></a>
 
 Eddie is an artistic mix between a badger and an hedgehog, originally devised by Martin Hotar. The participants can alter the pose of Eddie, for the resulting 3D model to sit stably on a flat surface, but should keep the apperance of 3D shaped Eddie as close as possible to the original 2D design. The delicate hand and feet, present in the original 2D drawing by Martin Hotar, can be omitted in the 3D volumetric submission. When using AI tools for the creation, the participants need to make sure that they will get all rights for the usage of the model and that none remain by the AI tool used. By submitting the model to the contest, the participants hand over the rights of the resulting model to the EdgeTX team, whereas EdgeTX team should be permitted to reference the author's name, together with the original 2D design author Martin Hotar, when talking about the volumetric Eddie model.
 
@@ -77,5 +77,5 @@ The winner will get a RadioMaster [TX16s MK3 MAX](https://radiomasterrc.com/prod
 
 <p></p> 
 <p align="center">
-<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterGold.png?raw=true" align="center" width="344"></a>
+<a href="https://www.radiomasterrc.com/" target="_blank"><img src="../assets/RadioMasterGold.png?raw=true" align="center" width="344"></a>
 </p>

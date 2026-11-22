@@ -3,7 +3,15 @@
 <!-- Custom front matter -->
 
 
+{% block extrahead %}
+  {{ super() }}
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="googlebot" content="noindex, nofollow, noarchive">
+{% endblock %}
+
 {% block announce %}
+  <strong>Website 3.0 review preview — work in progress.</strong>
+  <a href="{{ './' | url }}">Review homepage</a> ·
   EdgeTX v2.12.5 has been released! Check out the release notes on Github -
   <a href="https://github.com/EdgeTX/edgetx/releases/tag/v2.12.5">  v2.12.5   </a>
 {% endblock %}

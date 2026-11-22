@@ -1,0 +1,6 @@
+# Website 3.0 assets
+
+Homepage images are extracted from the approved local concept and reused from the EdgeTX website and themes/script galleries. Existing asset rights remain with their respective authors.
+
+Lucide 0.468.0 (ISC): https://github.com/lucide-icons/lucide/blob/0.468.0/LICENSE
+Simple Icons 13.21.0 (CC0; brand marks retain their respective trademark rights): https://github.com/simple-icons/simple-icons/tree/13.21.0

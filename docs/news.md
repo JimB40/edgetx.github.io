@@ -23,7 +23,7 @@ We're looking forward to continuing our work with HelloRadioSky and bringing mor
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/EdgeTXFest2026Col.jpg?raw=true" align="center" width="1024"></a>
+<a><img src="../assets/EdgeTXFest2026Col.jpg?raw=true" align="center" width="1024"></a>
 </P>
 
 Our 2026 EdgeTX Fest, together with our project's 5th birthday celebrations, were carried out at the <a href="https://www.airshowinternational.co.uk/">Weston Park Model Airshow</a> in West-Midlands in the United Kingdom.
@@ -97,7 +97,7 @@ Be the first developer to rewrite the model wizards (Plane, Glider, Wing, Helico
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/EdgeTXFest2025Col.jpg?raw=true" align="center" width="800"></a>
+<a><img src="../assets/EdgeTXFest2025Col.jpg?raw=true" align="center" width="800"></a>
 </P>
 
 To celebrate the 4th year of our project and promote EdgeTX in 2025, we partnered with the Australian FPV association and made an appearance during the <a href="https://aufpv.org.au/2025-mission-foods-australian-drone-nationals/">2025 Australian FPV Racing Nationals</a>.
@@ -301,7 +301,7 @@ A special shout-out to our event sponsors, [RadioMaster](https://www.radiomaster
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/Fest2023col.png?raw=true" align="center" width="900"></a>
+<a><img src="../assets/Fest2023col.png?raw=true" align="center" width="900"></a>
 </P>
 
 ---
@@ -347,7 +347,7 @@ Lastly, please note that while the main branch and nightlies are currently consi
 As we celebrate the start of the 3rd year of the EdgeTX, we are thrilled to unveil the brand-new EdgeTX logo and our new mascot, Eddie the Edgehog! This fresh, captivating design represents a significant milestone in our journey towards open-source excellence in the world of Radio Control transmitters.
 
 <p align="center">
-<a><img src="/assets/logo.png?raw=true" align="center" width="250"></a>
+<a><img src="../assets/logo.png?raw=true" align="center" width="250"></a>
 </P>
 
 **🦔 Meet Eddie, Your Trusty Companion 🦔**
@@ -355,7 +355,7 @@ As we celebrate the start of the 3rd year of the EdgeTX, we are thrilled to unve
 Eddie the Edgehog embodies the spirit of EdgeTX, combining cutting-edge technology and a playful, adventurous personality. With his sharp intellect and fearless attitude, Eddie is the perfect symbol for our ever-evolving open-source firmware that powers an incredible array of RC transmitters.
 
 <p align="center">
-<a><img src="/assets/edgehog.png?raw=true" align="center" width="400"></a>
+<a><img src="../assets/edgehog.png?raw=true" align="center" width="400"></a>
 </P>
 
 **🎉 A New Era Begins 🎉**
@@ -381,7 +381,7 @@ Join us on September 9th & 10th, 2023, for the EdgeTX Fest. We will celebrate th
  
 <p></p> 
 <p align="center">
-<a><img src="/assets/poster.png?raw=true" align="center" width="350
+<a><img src="../assets/poster.png?raw=true" align="center" width="350
 "></a>
 </P>
 
@@ -471,7 +471,7 @@ Special thanks to our event sponsors for providing the prizes and giveaways for 
 Thanks again to all participants, sponsors, and supporters of the event.  We are excited to see what the next year will bring to EdgeTX and looking forward to celebrating the second year of EdgeTX next year!
 <p></p> 
 <p align="center">
-<a><img src="/assets/EdgeTXFestCol.jpg?raw=true" align="center" width="800
+<a><img src="../assets/EdgeTXFestCol.jpg?raw=true" align="center" width="800
 "></a>
 </P>
 
@@ -573,7 +573,7 @@ If you are interested in seeing what new features will come in future EdgeTX rel
 **Sept. 11th, 2021**
 
 <p align="center">
-<img src="/assets/wantyou.gif" align="center" height="171" width="138">
+<img src="../assets/wantyou.gif" align="center" height="171" width="138">
 </P>
 
 **The EdgeTX team is looking for additional members to help create the cutting-edge.**

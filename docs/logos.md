@@ -4,7 +4,7 @@ hide:
 ---
 <p></p> 
 <p align="center">
-<a><img src="/assets/logos.png?raw=true" align="center" width="400"></a>
+<a><img src="../assets/logos.png?raw=true" align="center" width="400"></a>
 </P>
 
 The EdgeTX star logo, text logo, and mascot logo - "Eddie the Edgehog" (in variations described below) are protected by copyright laws and international treaty provisions. Unauthorized reproduction or distribution of these Logos or any portion thereof may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under the law.

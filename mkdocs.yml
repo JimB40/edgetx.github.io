@@ -1,4 +1,6 @@
-site_name: EdgeTX
+site_name: EdgeTX Website 3.0 Preview
+site_url: https://jimb40.github.io/edgetx.github.io/
+use_directory_urls: true
 repo_url: https://github.com/EdgeTX/edgetx
 repo_name: EdgeTX/edgetx
 

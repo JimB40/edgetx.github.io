@@ -6,7 +6,7 @@ hide:
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/dc5_poster.jpg?raw=true" align="center" width="497"></a>
+<a><img src="../assets/dc5_poster.jpg?raw=true" align="center" width="497"></a>
 </P>
 
 ## **Contest Details**
@@ -50,5 +50,5 @@ The EdgeTX PSC reserves the right not to accept submissions that work incorrectl
 
 <p></p> 
 <p align="center">
-<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyGold.png?raw=true" align="center" width="344"></a>
+<a href="https://www.flysky-cn.com/" target="_blank"><img src="../assets/FlySkyGold.png?raw=true" align="center" width="344"></a>
 </p>

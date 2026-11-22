@@ -36,8 +36,8 @@ By participating in this program, R/C radio manufacturers are helping support th
 
 ## Partnership Tiers
 <p align="center">
-<img src="/assets/SilverPartner.png" align="center" width="120"></a>
-<img src="/assets/GoldPartner.png" align="center" width="120"></a>
+<img src="../assets/SilverPartner.png" align="center" width="120"></a>
+<img src="../assets/GoldPartner.png" align="center" width="120"></a>
 </P>
 
 We have created partnership tiers that acknowledge and reward our partners for providing substantial financial support to our project:

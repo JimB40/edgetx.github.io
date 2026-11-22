@@ -72,6 +72,7 @@
 
 /* Desktop document layout: shared gutters and matching side panels. */
 @media(min-width:1100px){
+.etx-document{max-width:none}
 .etx-document .etx-topbar.wrap,.etx-document .review-banner.wrap,.etx-document .notice.wrap{padding-left:24px;padding-right:24px}
 .etx-document .md-main__inner.md-grid{margin-left:24px;margin-right:24px}
 .etx-document .md-sidebar{margin-top:0}

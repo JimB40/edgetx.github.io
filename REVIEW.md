@@ -38,3 +38,7 @@ Every generated page includes `noindex, nofollow, noarchive`; robots.txt request
 - overrides/main.html: preview announcement and noindex on documentation pages
 
 Team review can be collected as GitHub issues and on the upstream draft pull request. Do not merge the fork-specific preview deployment configuration into production unchanged.
+
+## Current review scope
+
+Desktop layout and content approval only. Custom mobile/tablet breakpoints and width-based menu collapsing have been removed. Responsive layouts will be designed after the desktop version and content are approved.

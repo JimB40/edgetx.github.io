@@ -67,10 +67,10 @@ One layout, available in color and monochrome variants.
 
 #### Mascot Logo — Eddie the Hedgehog
 
-Color versions with and without a shadow.
+Use the version without a shadow on dark backgrounds and the version with a shadow on light backgrounds.
 
 <div class="etx-brand-grid">
-<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Vector.svg" alt="Color · no shadow" loading="lazy"></div><figcaption>Color · no shadow</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Vector.svg" alt="Color · no shadow" loading="lazy"></div><figcaption>Color · no shadow</figcaption></figure>
 <figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Shadow_Vector.svg" alt="Color · with shadow" loading="lazy"></div><figcaption>Color · with shadow</figcaption></figure>
 </div>
 

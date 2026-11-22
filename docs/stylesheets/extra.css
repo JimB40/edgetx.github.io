@@ -87,3 +87,5 @@
 .etx-document .etx-context-menu a[aria-current=page]{background:color-mix(in srgb,var(--blue) 12%,var(--paper));color:var(--ink);box-shadow:inset 3px 0 var(--blue);font-weight:400}
 
 .etx-document .etx-license-text{white-space:pre-wrap;overflow-wrap:anywhere;padding:18px;background:var(--soft);color:var(--ink);border-radius:10px;font:12px/1.6 monospace}
+
+.etx-document .etx-page-toc .md-nav__link--active{background:color-mix(in srgb,var(--blue) 12%,var(--paper));color:var(--ink);box-shadow:inset 3px 0 var(--blue);font-size:13px;font-weight:400}

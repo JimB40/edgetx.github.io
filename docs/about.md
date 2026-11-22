@@ -4,11 +4,13 @@
 
 EdgeTX is open-source firmware for RC transmitters, designed for maximum flexibility.
 
-- **Configure your models your way.** A comprehensive set of tools lets you configure virtually any RC model, with multiple ways to approach each setup.
-- **Choose your hardware.** Support for a wide range of transmitters from multiple manufacturers. Explore the [supported radios](supportedradios.md).
-- **Connect your telemetry.** Compatibility with a broad range of telemetry protocols.
-- **Make it your own.** Customize your radio visually with themes and extend its functionality with Lua scripts and widgets.
-- **Explore and contribute.** Openly available source code lets anyone understand how EdgeTX works, contribute improvements and help shape its development.
+EdgeTX:
+
+- Provides a comprehensive set of tools for configuring virtually any RC model, with multiple ways to approach each setup.
+- Supports a wide range of transmitters from multiple manufacturers. See [supported radios](supportedradios.md).
+- Is compatible with a broad range of telemetry protocols.
+- Allows visual customization through themes and extends functionality through Lua scripts and widgets.
+- Provides openly available source code that lets anyone understand how EdgeTX works, contribute improvements and help shape its development.
 
 ## Our story
 

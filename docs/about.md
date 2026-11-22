@@ -22,9 +22,9 @@ OpenTX remains an option for older transmitters, but its development has largely
 
 Open source is a core value of the EdgeTX project. Access to the code makes it possible to understand how the firmware works, review its implementation and adapt it to new ideas and hardware. It also enables users, developers and manufacturers to collaborate on improvements that benefit the wider RC community.
 
-The EdgeTX firmware is distributed under the **GNU General Public License, version 2 (GPLv2)**. The license allows the software to be used, studied, modified and redistributed under its terms, helping keep the firmware and distributed improvements open for others to build on.
+The EdgeTX firmware is distributed under the [GNU General Public License, version 2 (GPLv2)](source-code-license.md). The license allows the software to be used, studied, modified and redistributed under its terms, helping keep the firmware and distributed improvements open for others to build on.
 
-The firmware source is maintained in the [EdgeTX repository on GitHub](https://github.com/EdgeTX/edgetx), where the [full license](https://github.com/EdgeTX/edgetx/blob/main/LICENSE) is also available. Related tools and projects can be found in the [EdgeTX GitHub organization](https://github.com/EdgeTX); their repositories contain their respective licensing information.
+The firmware source is maintained in the [EdgeTX repository on GitHub](https://github.com/EdgeTX/edgetx).
 
 ## How the project is organized
 

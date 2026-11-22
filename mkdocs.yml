@@ -12,6 +12,7 @@ nav:
     - Team: team.md
   - Governance and policies:
     - Project Bylaws: bylaws.md
+    - Source Code License: source-code-license.md
     - Non-Disclosure Policy: nda.md
     - Branding & Logos: logos.md
     - Community Guidelines: community-guidelines.md
@@ -75,7 +76,7 @@ theme:
   - navigation.top
 extra_css:
 - assets/website-3.0/homepage.css?v=20261122-28
-- stylesheets/extra.css?v=20261122-28
+- stylesheets/extra.css?v=20261122-29
 extra:
   social:
   - icon: fontawesome/brands/discord
@@ -109,6 +110,9 @@ extra:
       - title: Project Bylaws
         src: bylaws.md
         description: Governance, responsibilities, elections and decisions.
+      - title: Source Code License
+        src: source-code-license.md
+        description: GNU GPLv2 terms for EdgeTX firmware.
       - title: Non-Disclosure Policy
         src: nda.md
         description: How confidential information is handled.

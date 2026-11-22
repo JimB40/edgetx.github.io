@@ -83,3 +83,5 @@
 .etx-document .etx-page-toc .md-nav__link{padding:6px 9px;margin:2px 0;border-radius:6px;font-weight:400}
 .etx-document .etx-page-toc .md-nav__link:hover,.etx-document .etx-page-toc .md-nav__link--active{background:var(--paper);color:var(--blue)}
 }
+
+.etx-document .etx-context-menu a[aria-current=page]{background:var(--bluefill);color:var(--onblue);font-weight:400}

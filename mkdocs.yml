@@ -75,7 +75,7 @@ theme:
   - navigation.top
 extra_css:
 - assets/website-3.0/homepage.css?v=20261122-17
-- stylesheets/extra.css?v=20261122-21
+- stylesheets/extra.css?v=20261122-22
 extra:
   social:
   - icon: fontawesome/brands/discord

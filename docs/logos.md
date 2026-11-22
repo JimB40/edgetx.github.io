@@ -3,6 +3,11 @@ title: Branding & Logos
 hide:
   - toc
 ---
+
+!!! editorial "EDITORIAL NOTE — not for publication"
+
+    Before publication, clarify and document the rights to the EdgeTX logos, including commercial use and merchandise, in an agreement with the EdgeTX Foundation.
+
 <p></p> 
 <p align="center">
 <a><img src="../assets/logos.png?raw=true" align="center" width="400"></a>

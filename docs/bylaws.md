@@ -1,6 +1,6 @@
 # EdgeTX Project Bylaws
 
-These bylaws define the purpose, governance and operating rules of the EdgeTX project. For the project’s history, see [About EdgeTX](about.md). Current membership is listed on [Team](team.md).
+These bylaws define the purpose, governance and operating rules of the EdgeTX project.
 
 ## Name and purpose
 

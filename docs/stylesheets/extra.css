@@ -84,4 +84,4 @@
 .etx-document .etx-page-toc .md-nav__link:hover,.etx-document .etx-page-toc .md-nav__link--active{background:var(--paper);color:var(--blue)}
 }
 
-.etx-document .etx-context-menu a[aria-current=page]{background:var(--bluefill);color:var(--onblue);font-weight:400}
+.etx-document .etx-context-menu a[aria-current=page]{background:light-dark(#f0e9f8,#30243d);color:var(--ink);box-shadow:inset 3px 0 #a63cbe;font-weight:400}

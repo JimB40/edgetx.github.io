@@ -11,7 +11,7 @@ nav:
   - Governance and policies:
     - Project Bylaws: bylaws.md
     - Non-Disclosure Policy: nda.md
-    - Using EdgeTX logos: logos.md
+    - EdgeTX Branding Guidelines: logos.md
     - Community Guidelines: community-guidelines.md
     - Finance and Transparency: finance.md
 - Docs:
@@ -107,7 +107,7 @@ extra:
       - title: Non-Disclosure Policy
         src: nda.md
         description: How confidential information is handled.
-      - title: Using EdgeTX logos
+      - title: EdgeTX Branding Guidelines
         src: logos.md
         description: Permitted uses and restrictions for project branding.
       - title: Community Guidelines

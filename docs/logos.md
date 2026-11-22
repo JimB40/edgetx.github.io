@@ -1,4 +1,5 @@
 ---
+title: EdgeTX Branding Guidelines
 hide:
   - toc
 ---

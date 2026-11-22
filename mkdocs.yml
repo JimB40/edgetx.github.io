@@ -74,8 +74,8 @@ theme:
   - toc.follow
   - navigation.top
 extra_css:
-- assets/website-3.0/homepage.css?v=20261122-9
-- stylesheets/extra.css?v=20261122-9
+- assets/website-3.0/homepage.css?v=20261122-10
+- stylesheets/extra.css?v=20261122-10
 extra:
   social:
   - icon: fontawesome/brands/discord

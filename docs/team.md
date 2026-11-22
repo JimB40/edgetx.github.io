@@ -2,7 +2,7 @@
 
 ## Core Development Team and PSC { #meet-the-team }
 
-The badges show Development Team membership and participation in the **Project Steering Committee (PSC)**. PSC responsibilities and membership rules are defined in the [Project Bylaws](bylaws.md).
+The current members of the EdgeTX core Development Team and Project Steering Committee (PSC) are listed below.
 
 <div class="etx-team-cards" aria-label="EdgeTX team">
 <section class="etx-member-card" aria-label="Raphael Coeffic">

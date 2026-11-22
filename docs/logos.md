@@ -82,8 +82,8 @@ PSC@edgetx.org
 
 ### Download branding package
 
-- [EdgeTX logos in SVG (vector) format](../assets/website-3.0/branding/EdgeTX_logos_svg.zip)
-- [EdgeTX logos in PNG (raster) format](../assets/website-3.0/branding/EdgeTX_logos_png.zip)
+- [EdgeTX logos in SVG (vector) format](assets/website-3.0/branding/EdgeTX_logos_svg.zip)
+- [EdgeTX logos in PNG (raster) format](assets/website-3.0/branding/EdgeTX_logos_png.zip)
 
 ---
 Copyright Martin Hotar 2023

@@ -79,10 +79,6 @@ Use the version without a shadow on dark backgrounds and the version with a shad
 <figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Shadow_Vector.svg" alt="Light background · with shadow" loading="lazy"></div><figcaption>Light background · with shadow</figcaption></figure>
 </div>
 
-!!! info "Logo use and permissions"
-
-    For questions about logo use or permission for uses not covered above, contact the EdgeTX Project Steering Committee at [PSC@edgetx.org](mailto:PSC@edgetx.org).
-
 ### Download branding package
 
 - [EdgeTX logos in SVG (vector) format](assets/website-3.0/branding/EdgeTX_logos_svg.zip)
@@ -91,3 +87,7 @@ Use the version without a shadow on dark backgrounds and the version with a shad
 ---
 Copyright Martin Hotar 2023
 All rights reserved
+
+!!! info "Logo use and permissions"
+
+    For questions about logo use or permission for uses not covered above, contact the EdgeTX Project Steering Committee at [PSC@edgetx.org](mailto:PSC@edgetx.org).

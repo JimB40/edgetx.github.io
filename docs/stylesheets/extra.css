@@ -112,3 +112,5 @@
 .etx-document .md-typeset .admonition.warning{background:light-dark(#fff9e7,#302b1b);border:1px solid light-dark(#e8dba8,#62562e);border-left:3px solid #c8ad30}.etx-document .md-typeset .admonition.warning>.admonition-title::before{background-color:light-dark(#8b720e,#dfc65d)}
 
 .etx-document .md-typeset .admonition>p:not(.admonition-title)+p{margin-top:6px}
+
+.etx-document .md-typeset .admonition.editorial{background:light-dark(#fff0f0,#3b2025);border-color:light-dark(#e8a9ae,#91424c);border-left:3px solid #c83242}.etx-document .md-typeset .admonition.editorial>.admonition-title{color:light-dark(#9e1f2d,#ffb1b9)}.etx-document .md-typeset .admonition.editorial>.admonition-title::before{background-color:#c83242;mask-image:var(--md-admonition-icon--warning);-webkit-mask-image:var(--md-admonition-icon--warning)}

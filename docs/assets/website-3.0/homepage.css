@@ -124,3 +124,5 @@ html{scroll-padding-top:120px}
 .etx-design .etx-member-card .etx-team-badge:not(.etx-team-psc){background:light-dark(#f1e3f7,#3a2546);color:light-dark(#79278f,#e3b7f0);border-color:light-dark(#cfa4df,#8b58a1)}
 
 .etx-design .etx-member-body>.etx-team-roles{min-height:38px;justify-content:flex-start}
+
+.etx-design .etx-member-card .etx-team-badge:not(.etx-team-psc){background:color-mix(in srgb,var(--blue) 9%,var(--paper));color:var(--blue);border-color:color-mix(in srgb,var(--blue) 35%,var(--line))}.etx-design .etx-member-card .etx-team-psc{background:light-dark(#f1e3f7,#3a2546);color:light-dark(#79278f,#e3b7f0);border-color:light-dark(#cfa4df,#8b58a1)}

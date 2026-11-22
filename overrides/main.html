@@ -10,19 +10,19 @@
   {{ super() }}
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="googlebot" content="noindex, nofollow, noarchive">
-  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-12"></script>
+  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-13"></script>
 {% endblock %}
 {% block announce %}{% endblock %}
 {% block header %}
 <script>document.body.classList.add('etx-design','etx-document');document.body.style.colorScheme=window.etxReviewTheme||'light';</script>
 <div class="etx-site-header">
   {% include "partials/website-header.html" %}
-<div class="etx-doc-toolbar">
-  <a href="{{ context.section.landing | url }}">{{ context.section.title }}</a>
-  <span aria-hidden="true">/</span><span>{{ page.title }}</span>
 
 </div>
-</div>
+{% endblock %}
+{% block content %}
+<nav class="etx-breadcrumb" aria-label="Breadcrumb"><a href="{{ './' | url }}" aria-label="Home"><i data-lucide="house" aria-hidden="true"></i></a><span aria-hidden="true">/</span><a href="{{ context.section.landing | url }}">{{ context.section.title }}</a><span aria-hidden="true">/</span><span aria-current="page">{{ page.title }}</span></nav>
+{{ super() }}
 {% endblock %}
 {% block tabs %}{% endblock %}
 {% block site_nav %}
@@ -33,5 +33,5 @@
 {% block scripts %}
  {{ super() }}
  <script src="{{ 'assets/website-3.0/lucide.min.js' | url }}"></script>
- <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-12"></script>
+ <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-13"></script>
 {% endblock %}

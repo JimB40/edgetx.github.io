@@ -35,6 +35,6 @@ To coordinate development and manage the project, some members of the core team 
 
 For questions about the project or its governance, contact the PSC on [Discord](https://discord.gg/wF9wUKnZ6H) or by email at [psc@edgetx.org](mailto:psc@edgetx.org).
 
-!!! info "Please use the right channel"
+!!! info "Contact and support"
 
     Please email the PSC only about collaboration or the organization of the project. For help using the firmware, visit [Support](support.md). To [report a bug](https://github.com/EdgeTX/edgetx/issues/new?template=bug-report.yml) or [request a feature](https://github.com/EdgeTX/edgetx/issues/new?template=feature-request.yml), use the GitHub issue tracker rather than the PSC email address.

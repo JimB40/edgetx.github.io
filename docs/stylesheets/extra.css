@@ -91,3 +91,5 @@
 .etx-document .etx-page-toc .md-nav__link--active{background:color-mix(in srgb,var(--blue) 12%,var(--paper));color:var(--ink);box-shadow:inset 3px 0 var(--blue);font-size:13px;font-weight:400}
 
 .etx-document .md-typeset .admonition{font:inherit;font-size:14px;background:color-mix(in srgb,var(--blue) 7%,var(--paper));color:var(--ink);border:1px solid var(--line);border-left:4px solid var(--blue);border-radius:9px;box-shadow:none}.etx-document .md-typeset .admonition-title{background:color-mix(in srgb,var(--blue) 12%,var(--paper));color:var(--ink)}.etx-document .md-typeset .admonition>p:last-child{margin-bottom:12px}
+
+.etx-document .md-typeset .admonition{background:var(--soft);border:1px solid var(--line);border-left:2px solid var(--line)}.etx-document .md-typeset .admonition-title{background:transparent}.etx-document .md-typeset .admonition-title::before{background-color:var(--sub)}

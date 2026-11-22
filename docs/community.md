@@ -8,7 +8,7 @@ Meet other RC enthusiasts, ask questions, exchange ideas and share what you buil
 - [Facebook](https://www.facebook.com/groups/edgetx) — connect with other users.
 - [RC Groups](https://www.rcgroups.com/forums/showthread.php?3916381-Official-EdgeTX-Discussion-Thread) — take part in the EdgeTX discussion thread.
 
-For help with a specific issue, see [Support](support.md). Please follow the [Community Guidelines](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines) when participating.
+For help with a specific issue, see [Support](support.md). Please follow the [Community Guidelines](community-guidelines.md) when participating.
 
 ## News and events
 

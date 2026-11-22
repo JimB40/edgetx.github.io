@@ -92,7 +92,7 @@ See [About EdgeTX](about.md#development-team) for the current Development Team m
 
 ## Community conduct { #code-of-conduct }
 
-All members of the community are expected to adhere to the  [Community Guidelines](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines) in all activities related to EdgeTX. PSC members help maintain user adherence to the community guidelines and can recommend the "time out" or removal of offenders, to be decided by the PSC.
+All members of the community are expected to adhere to the  [Community Guidelines](community-guidelines.md) in all activities related to EdgeTX. PSC members help maintain user adherence to the community guidelines and can recommend the "time out" or removal of offenders, to be decided by the PSC.
 
 ## Amendments
 

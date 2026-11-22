@@ -7,16 +7,13 @@ copyright: Copyright &copy; 2021-2026 EdgeTX
 nav:
 - Home: index.md
 - Project:
-  - About and team:
-    - About EdgeTX: about.md
+  - About EdgeTX: about.md
   - Governance and policies:
     - Project Bylaws: bylaws.md
     - Non-Disclosure Policy: nda.md
     - Using EdgeTX logos: logos.md
-    - Community Guidelines: https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines
-    - Financial transparency: https://opencollective.com/edgetx
-  - Support the project:
-    - Merchandise: merch.md
+    - Community Guidelines: community-guidelines.md
+    - Finance and Transparency: finance.md
 - Docs:
   - Documentation:
     - Documentation: resources.md
@@ -58,6 +55,7 @@ nav:
     - Partnership program: partnershipprogram.md
     - EdgeTX on your radio: edgetxsupport.md
 - Project directory: project.md
+- Merchandise: merch.md
 theme:
   name: material
   custom_dir: overrides
@@ -74,8 +72,8 @@ theme:
   - toc.follow
   - navigation.top
 extra_css:
-- assets/website-3.0/homepage.css?v=20261122-11
-- stylesheets/extra.css?v=20261122-11
+- assets/website-3.0/homepage.css?v=20261122-12
+- stylesheets/extra.css?v=20261122-12
 extra:
   social:
   - icon: fontawesome/brands/discord
@@ -96,7 +94,7 @@ extra:
     aliases:
     - project.md
     groups:
-    - title: About and team
+    - title: ''
       items:
       - title: About EdgeTX
         src: about.md
@@ -113,16 +111,11 @@ extra:
         src: logos.md
         description: Permitted uses and restrictions for project branding.
       - title: Community Guidelines
-        href: https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines
         description: Expectations for participating in the community.
-      - title: Financial transparency
-        href: https://opencollective.com/edgetx
+        src: community-guidelines.md
+      - title: Finance and Transparency
         description: Public contributions, expenses and project finances.
-    - title: Support the project
-      items:
-      - title: Merchandise
-        src: merch.md
-        description: Clothing and accessories supporting the project.
+        src: finance.md
   - title: Docs
     landing: resources/
     aliases: []
@@ -148,7 +141,8 @@ extra:
         description: The EdgeTX user manual.
   - title: Community
     landing: community/
-    aliases: []
+    aliases:
+    - merch.md
     groups:
     - title: Connect
       items:

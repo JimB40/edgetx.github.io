@@ -109,3 +109,11 @@ html{scroll-padding-top:120px}
 .etx-design .etx-member-body{gap:12px}.etx-design .etx-member-body .etx-member-info{flex:0 0 auto;width:max-content}
 
 .etx-design .etx-member-body .etx-member-info{flex:0 0 var(--team-name-width,225px);width:var(--team-name-width,225px)}
+
+/* Inverted sticky navigation across both color themes. */
+.etx-design .etx-sticky-header{background:#132638;color:#edf5fc;border-bottom-color:#344554}
+.etx-design .etx-sticky-header .etx-search-button{background:#243b4e;border-color:#40566a;color:#edf5fc}
+.etx-design .etx-sticky-header .theme-toggle{color:#edf5fc}
+.etx-design .etx-sticky-header .etx-github-dropdown{background:#192e40;border-color:#40566a;color:#edf5fc}
+.etx-design .etx-sticky-header .etx-github-dropdown a:hover,.etx-design .etx-sticky-header .etx-github-dropdown a:focus-visible{background:#2a4357}
+.etx-design .etx-sticky-header .etx-repo-stats{color:#b8c9d8}

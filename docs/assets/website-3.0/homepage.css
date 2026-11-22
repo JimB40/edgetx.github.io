@@ -92,3 +92,6 @@ html{scroll-padding-top:120px}
 .etx-design .etx-header-support{background:#32bfa5;color:#102c27}.etx-design .etx-header-support:hover{background:#43ceb5;filter:none}
 
 .etx-design .notice{background:#9335ad;color:#fff}.etx-design .notice a{color:#fff}.etx-design .noticeclose{color:#fff;border-color:#ffffff80}
+
+.etx-design .etx-header-support{background:var(--bluefill);color:#fff}.etx-design .etx-header-support:hover{background:var(--bluefill);filter:brightness(1.08)}
+.etx-design .notice{background:#ac435f;color:#fff}.etx-design .notice a{color:#fff}.etx-design .noticeclose{color:#fff;border-color:#ffffff80}

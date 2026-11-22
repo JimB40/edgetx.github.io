@@ -66,8 +66,8 @@ theme:
     - navigation.top
 
 extra_css:
-  - assets/website-3.0/homepage.css?v=20261122-5
-  - stylesheets/extra.css?v=20261122-6
+  - assets/website-3.0/homepage.css?v=20261122-7
+  - stylesheets/extra.css?v=20261122-7
 
 extra:
   social:

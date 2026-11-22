@@ -1,9 +1,16 @@
 {% extends "base.html" %}
+{% set context = namespace(section=config.extra.context_sections[1]) %}
+{% for section in config.extra.context_sections %}
+  {% set match = namespace(found=page and page.file.src_path in section.aliases) %}
+  {% for group in section.groups %}{% for item in group['items'] %}{% if page and item.src is defined and item.src == page.file.src_path %}{% set match.found = true %}{% endif %}{% endfor %}{% endfor %}
+  {% if match.found %}{% set context.section = section %}{% endif %}
+{% endfor %}
+
 {% block extrahead %}
   {{ super() }}
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="googlebot" content="noindex, nofollow, noarchive">
-  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-7"></script>
+  <script src="{{ 'assets/website-3.0/theme.js' | url }}?v=20261122-8"></script>
 {% endblock %}
 {% block announce %}{% endblock %}
 {% block header %}
@@ -11,8 +18,7 @@
 <div class="etx-site-header">
   {% include "partials/website-header.html" %}
 <div class="etx-doc-toolbar">
-  {% set project_pages = ['project.md', 'about.md', 'bylaws.md', 'nda.md', 'logos.md', 'recruiting.md', 'partnershipprogram.md', 'edgetxsupport.md', 'news.md', 'merch.md', 'devcontest.md', 'fest2023.md', 'fest2024.md', 'fest2025.md', 'fest2026.md', 'etxf24_auction.md', 'dc10_3deddie.md', 'dc9_lualvglwizard.md', 'dc8_lualvglwidget.md', 'dc7_simuhaptic.md', 'dc6_buddybackup.md', 'dc5_websimu.md', 'dc4_comp_physer.md', 'dc2_ubx.md'] %}
-  {% if page and page.file.src_path in project_pages %}<a href="{{ 'about/' | url }}">Project</a>{% else %}<a href="{{ 'resources/' | url }}">Docs &amp; help</a>{% endif %}
+  <a href="{{ context.section.landing | url }}">{{ context.section.title }}</a>
   <span aria-hidden="true">/</span><span>{{ page.title }}</span>
 
 </div>
@@ -20,12 +26,12 @@
 {% endblock %}
 {% block tabs %}{% endblock %}
 {% block site_nav %}
-<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation"><div class="md-sidebar__scrollwrap"><div class="md-sidebar__inner">{% include "partials/nav.html" %}</div></div></div>
-<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc"><div class="md-sidebar__scrollwrap"><div class="md-sidebar__inner">{% include "partials/toc.html" %}</div></div></div>
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation"><div class="md-sidebar__scrollwrap"><div class="md-sidebar__inner">{% include "partials/context-menu.html" %}</div></div></div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc"><div class="md-sidebar__scrollwrap"><div class="md-sidebar__inner"><details class="etx-page-toc" open><summary>On this page</summary>{% include "partials/toc.html" %}</details></div></div></div>
 {% endblock %}
 {% block footer %}{% include "partials/website-footer.html" %}{% endblock %}
 {% block scripts %}
  {{ super() }}
  <script src="{{ 'assets/website-3.0/lucide.min.js' | url }}"></script>
- <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-7"></script>
+ <script src="{{ 'assets/website-3.0/shell.js' | url }}?v=20261122-8"></script>
 {% endblock %}

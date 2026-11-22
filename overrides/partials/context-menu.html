@@ -1,0 +1,12 @@
+<details class="etx-context-menu" open>
+<summary>{{ context.section.title }} navigation</summary>
+<nav aria-label="{{ context.section.title }} navigation">
+{% for group in context.section.groups %}
+<section class="etx-context-group"><h2>{{ group.title }}</h2><ul>
+{% for item in group['items'] %}
+{% if item.src is defined %}{% set target = item.src | replace('.md', '/') %}{% set active = page and page.file.src_path == item.src %}{% else %}{% set target = item.href %}{% set active = false %}{% endif %}
+<li><a href="{{ target | url }}" title="{{ item.description }}" {% if active %}aria-current="page"{% endif %}>{{ item.title }}</a></li>
+{% endfor %}
+</ul></section>
+{% endfor %}
+</nav></details>

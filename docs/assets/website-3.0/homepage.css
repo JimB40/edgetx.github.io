@@ -73,3 +73,5 @@ html{scroll-padding-top:120px}
 @media(max-width:650px){.etx-design .etx-topbar{flex-wrap:wrap;gap:10px;padding-top:6px;padding-bottom:6px}.etx-design .etx-menubar{order:5;flex-basis:100%;margin-right:0}.etx-design .etx-menubar .navlinks{justify-content:space-between;gap:8px;font-size:12px}.etx-design .etx-topbar .brand{margin-right:auto}.etx-design .etx-search-button{min-width:100px}.etx-design .etx-github-menu{font-size:11px}}
 
 .etx-design .etx-sticky-header .navlinks{font-size:13px;font-weight:700}.etx-design .etx-sticky-header .etx-github-menu{font-size:13px;font-weight:700}.etx-design .etx-sticky-header .etx-search-button{font:600 13px/1 Arial,sans-serif;min-width:0;width:104px;height:28px;min-height:28px;padding:4px 10px;gap:7px;margin-left:0;border-radius:16px}.etx-design .etx-sticky-header .etx-search-button svg{width:14px;height:14px}
+
+.etx-design .etx-section-dropdown .etx-github-dropdown{left:0;right:auto}

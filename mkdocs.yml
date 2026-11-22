@@ -6,45 +6,58 @@ repo_name: EdgeTX/edgetx
 copyright: Copyright &copy; 2021-2026 EdgeTX
 nav:
 - Home: index.md
-- Docs and Help: resources.md
-- Project: project.md
-- For Users:
-  - About EdgeTX: about.md
-  - News: news.md
-  - Get EdgeTX: getedgetx.md
-  - Check Supported Radios: supportedradios.md
-  - User Guide: https://edgetx.gitbook.io/edgetx-user-manual/
-  - Support: support.md
-  - FAQ: faq.md
-  - Merchandise: merch.md
-  - Project Bylaws: bylaws.md
-  - Using EdgeTX Logos: logos.md
-- For Developers:
-  - Developer Info: devinfo.md
-  - Join the Team: recruiting.md
-- For Manufacturers:
-  - EdgeTX on your radio: edgetxsupport.md
-  - Hardware requirements for EdgeTX: Radio-hardware-specifications-for-EdgeTX.md
-  - Partnership Program: partnershipprogram.md
-  - Non-Disclosure Policy: nda.md
-- EdgeTX Fest:
-  - Fest 2026: fest2026.md
-  - Archive:
+- Project:
+  - About and team:
+    - About EdgeTX: about.md
+  - Governance and policies:
+    - Project Bylaws: bylaws.md
+    - Non-Disclosure Policy: nda.md
+    - Using EdgeTX logos: logos.md
+    - Community Guidelines: https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines
+    - Financial transparency: https://opencollective.com/edgetx
+  - Support the project:
+    - Merchandise: merch.md
+- Docs:
+  - Documentation:
+    - Documentation: resources.md
+    - Get EdgeTX: getedgetx.md
+    - Supported radios: supportedradios.md
+    - FAQ: faq.md
+  - User manual:
+    - User manual: https://manual.edgetx.org/
+- Community:
+  - Connect:
+    - Community: community.md
+    - Support: support.md
+  - News and events:
+    - News: news.md
+    - Fest 2026: fest2026.md
     - Fest 2025: fest2025.md
     - Fest 2024: fest2024.md
-    - Fest 2024 Auction: etxf24_auction.md
     - Fest 2023: fest2023.md
-- Developer Contests:
-  - Developer Contests: devcontest.md
-  - Archive:
-    - Contest 10 - 3D Eddie: dc10_3deddie.md
-    - Contest 9 - Lua LVGL Wizard: dc9_lualvglwizard.md
-    - Contest 8 - Lua LVGL Widget: dc8_lualvglwidget.md
-    - Contest 7 - Simulator Haptic: dc7_simuhaptic.md
-    - Contest 6 - Buddy Backup: dc6_buddybackup.md
-    - Contest 5 - Web Simulator: dc5_websimu.md
-    - Contest 4 - Companion Physical Serial: dc4_comp_physer.md
-    - Contest 2 - UBX GPS: dc2_ubx.md
+    - Fest 2024 auction: etxf24_auction.md
+    - Developer contests: devcontest.md
+  - Contest archive:
+    - 3D Eddie: dc10_3deddie.md
+    - Lua LVGL Wizard: dc9_lualvglwizard.md
+    - Lua LVGL Widget: dc8_lualvglwidget.md
+    - Simulator Haptic: dc7_simuhaptic.md
+    - Buddy Backup: dc6_buddybackup.md
+    - Web Simulator: dc5_websimu.md
+    - Companion Physical Serial: dc4_comp_physer.md
+    - UBX GPS: dc2_ubx.md
+- Development:
+  - Contributing:
+    - Developer information: devinfo.md
+    - Get involved: recruiting.md
+  - Technical references:
+    - Lua API reference: https://luadoc.edgetx.org/
+    - Hardware requirements: Radio-hardware-specifications-for-EdgeTX.md
+- Partners:
+  - Partners and manufacturers:
+    - Partnership program: partnershipprogram.md
+    - EdgeTX on your radio: edgetxsupport.md
+- Project directory: project.md
 theme:
   name: material
   custom_dir: overrides
@@ -61,8 +74,8 @@ theme:
   - toc.follow
   - navigation.top
 extra_css:
-- assets/website-3.0/homepage.css?v=20261122-8
-- stylesheets/extra.css?v=20261122-8
+- assets/website-3.0/homepage.css?v=20261122-9
+- stylesheets/extra.css?v=20261122-9
 extra:
   social:
   - icon: fontawesome/brands/discord
@@ -88,9 +101,6 @@ extra:
       - title: About EdgeTX
         src: about.md
         description: Project overview, history and current team.
-      - title: Get involved
-        src: recruiting.md
-        description: Ways to contribute your time and skills.
     - title: Governance and policies
       items:
       - title: Project Bylaws
@@ -108,14 +118,46 @@ extra:
       - title: Financial transparency
         href: https://opencollective.com/edgetx
         description: Public contributions, expenses and project finances.
-    - title: Partners and manufacturers
+    - title: Support the project
       items:
-      - title: Partnership program
-        src: partnershipprogram.md
-        description: Partnership tiers, commitments and official partners.
-      - title: EdgeTX on your radio
-        src: edgetxsupport.md
-        description: Bringing EdgeTX to new hardware.
+      - title: Merchandise
+        src: merch.md
+        description: Clothing and accessories supporting the project.
+  - title: Docs
+    landing: resources/
+    aliases: []
+    groups:
+    - title: Documentation
+      items:
+      - title: Documentation
+        src: resources.md
+        description: Manuals, references, tools and technical help.
+      - title: Get EdgeTX
+        src: getedgetx.md
+        description: Install or update firmware and download Companion.
+      - title: Supported radios
+        src: supportedradios.md
+        description: Compatible radios and their support levels.
+      - title: FAQ
+        src: faq.md
+        description: Frequently asked questions.
+    - title: User manual
+      items:
+      - title: User manual
+        href: https://manual.edgetx.org/
+        description: The EdgeTX user manual.
+  - title: Community
+    landing: community/
+    aliases: []
+    groups:
+    - title: Connect
+      items:
+      - title: Community
+        src: community.md
+        description: Meet other users and share what you build.
+      - title: Support
+        src: support.md
+        description: Where to get help.
     - title: News and events
       items:
       - title: News
@@ -139,11 +181,6 @@ extra:
       - title: Developer contests
         src: devcontest.md
         description: Current and past developer contests.
-    - title: Support the project
-      items:
-      - title: Merchandise
-        src: merch.md
-        description: Clothing and accessories supporting the project.
     - title: Contest archive
       items:
       - title: 3D Eddie
@@ -170,43 +207,38 @@ extra:
       - title: UBX GPS
         src: dc2_ubx.md
         description: Developer contest details and prizes.
-  - title: Help
-    landing: resources/
+  - title: Development
+    landing: devinfo/
     aliases: []
     groups:
-    - title: Using EdgeTX
-      items:
-      - title: Docs and help
-        src: resources.md
-        description: Manuals, references, tools and technical help.
-      - title: Get EdgeTX
-        src: getedgetx.md
-        description: Install or update firmware and download Companion.
-      - title: Supported radios
-        src: supportedradios.md
-        description: Compatible radios and their support levels.
-      - title: Support
-        src: support.md
-        description: Where to get help.
-      - title: FAQ
-        src: faq.md
-        description: Frequently asked questions.
-    - title: Manuals and references
-      items:
-      - title: User manual
-        href: https://manual.edgetx.org/
-        description: The EdgeTX user manual.
-      - title: Lua API reference
-        href: https://luadoc.edgetx.org/
-        description: Lua programming reference.
-    - title: Development
+    - title: Contributing
       items:
       - title: Developer information
         src: devinfo.md
         description: Build resources, release strategy and contribution links.
+      - title: Get involved
+        src: recruiting.md
+        description: Ways to contribute your time and skills.
+    - title: Technical references
+      items:
+      - title: Lua API reference
+        href: https://luadoc.edgetx.org/
+        description: Lua programming reference.
       - title: Hardware requirements
         src: Radio-hardware-specifications-for-EdgeTX.md
         description: Technical requirements for supported hardware.
+  - title: Partners
+    landing: partnershipprogram/
+    aliases: []
+    groups:
+    - title: Partners and manufacturers
+      items:
+      - title: Partnership program
+        src: partnershipprogram.md
+        description: Partnership tiers, commitments and official partners.
+      - title: EdgeTX on your radio
+        src: edgetxsupport.md
+        description: Bringing EdgeTX to new hardware.
 markdown_extensions:
 - toc:
     permalink: true

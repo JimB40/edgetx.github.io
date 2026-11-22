@@ -14,14 +14,10 @@ This page explains the approach; the transaction records on Open Collective are 
 
 The Project Steering Committee is responsible for decisions on project expenditures. Its responsibilities are described in the [Project Bylaws](bylaws.md#responsibilities). The [Team page](team.md) lists the current committee members.
 
-## Supporting the project
+## Supporting the project financially
 
-You can make a one-time contribution or support the project regularly through Open Collective.
+You can make a one-time or recurring contribution through [Open Collective](https://opencollective.com/edgetx/donate). Every contribution matters, even the smallest amount.
 
-[Donate through Open Collective](https://opencollective.com/edgetx/donate)
+!!! info "Questions about project funding"
 
-Contributing time is valuable too. Testing, documentation and development all help the project; see [Get involved](recruiting.md).
-
-## Questions
-
-For questions about project finances, contact the PSC at [psc@edgetx.org](mailto:psc@edgetx.org).
+    For questions about funding the project, contact the PSC at [psc@edgetx.org](mailto:psc@edgetx.org).

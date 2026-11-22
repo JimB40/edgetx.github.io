@@ -122,3 +122,5 @@ html{scroll-padding-top:120px}
 #etx-home{max-width:none}#etx-home>section,#etx-home>footer{max-width:1440px;margin-left:auto;margin-right:auto}.etx-design .etx-topbar.wrap,.etx-design .review-banner.wrap,.etx-design .notice.wrap{padding-left:24px;padding-right:24px}
 
 .etx-design .etx-member-card .etx-team-badge:not(.etx-team-psc){background:light-dark(#f1e3f7,#3a2546);color:light-dark(#79278f,#e3b7f0);border-color:light-dark(#cfa4df,#8b58a1)}
+
+.etx-design .etx-member-body>.etx-team-roles{min-height:38px;justify-content:flex-start}

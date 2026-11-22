@@ -41,44 +41,38 @@ Any use of the Logos not expressly permitted in this statement is strictly prohi
 
 
 ### Logo Versions and Color Variations
-There are three logos for EdgeTX:
 
-**Text Logo**
+#### Text Logo
 
-Layout variations:
+Stacked and inline layouts, in black for light backgrounds and white for dark backgrounds.
 
-- Stacked (text stacked)
-- Line (text inline)
-	
-Color variations:
-  
-- White - to be used on dark backgrounds
-- Black - to be used on light backgrounds
+<div class="etx-brand-grid">
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Box_Black_Vector.svg" alt="Stacked · black" loading="lazy"></div><figcaption>Stacked · black</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Box_White_Vector.svg" alt="Stacked · white" loading="lazy"></div><figcaption>Stacked · white</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Line_Black_Vector.svg" alt="Inline · black" loading="lazy"></div><figcaption>Inline · black</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_TextLogo_BW_Line_White_Vector.svg" alt="Inline · white" loading="lazy"></div><figcaption>Inline · white</figcaption></figure>
+</div>
 
-**Star Logo**
+#### Star Logo
 
-Layout variations:
+One layout, available in color and monochrome variants.
 
-- only one layout variation is available
+<div class="etx-brand-grid">
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_Color_500.png" alt="Color" loading="lazy"></div><figcaption>Color</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_Black_NoBackground_Vector.svg" alt="Black · transparent" loading="lazy"></div><figcaption>Black · transparent</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_White_NoBackground_Vector.svg" alt="White · transparent" loading="lazy"></div><figcaption>White · transparent</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_Black_WhiteBackground_Vector.svg" alt="Black · white background" loading="lazy"></div><figcaption>Black · white background</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-dark"><img src="../assets/website-3.0/branding/EdgeTX_StarLogo_BW_White_BlackBackground_Vector.svg" alt="White · black background" loading="lazy"></div><figcaption>White · black background</figcaption></figure>
+</div>
 
-Color variations:
+#### Mascot Logo — Eddie the Hedgehog
 
-- Color
-- Black with white background
-- Black with transparent background
-- White with black background
-- White with transparent background
+Color versions with and without a shadow.
 
- **Mascot Logo - "Eddie the Edgehog"**
- 
-Layout variations:
-
-- only one layout variation is available
-
-Color variations:
-
-- Color - no shadow
-- Color - with shadow 
+<div class="etx-brand-grid">
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Vector.svg" alt="Color · no shadow" loading="lazy"></div><figcaption>Color · no shadow</figcaption></figure>
+<figure class="etx-brand-sample"><div class="etx-brand-image on-light"><img src="../assets/website-3.0/branding/EdgeTX_MascotLogo_Color_Shadow_Vector.svg" alt="Color · with shadow" loading="lazy"></div><figcaption>Color · with shadow</figcaption></figure>
+</div>
 
 For inquiries regarding the use of the Logo, or to request permission for any use not covered by this statement, please contact:
 
@@ -88,8 +82,8 @@ PSC@edgetx.org
 
 ### Download branding package
 
-- [EdgeTX logos in SVG (vector) format](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/EdgeTX_logos_svg.zip)
-- [EdgeTX logos in PNG (raster) format](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/EdgeTX_logos_png.zip)
+- [EdgeTX logos in SVG (vector) format](../assets/website-3.0/branding/EdgeTX_logos_svg.zip)
+- [EdgeTX logos in PNG (raster) format](../assets/website-3.0/branding/EdgeTX_logos_png.zip)
 
 ---
 Copyright Martin Hotar 2023
